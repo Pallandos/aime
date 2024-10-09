@@ -9,3 +9,4 @@ detected_entities = matcher.run([test_doc.raw_segment])
 # show information
 msg = "|".join(f"'{entity.label}':{entity.text}" for entity in detected_entities)
 print(f"Text: '{test_doc.text}'\n{msg}")
+#salut
