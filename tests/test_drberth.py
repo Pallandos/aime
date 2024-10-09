@@ -1,5 +1,9 @@
 from transformers import pipeline
 
+# ce fichier réalise une tokenisation d'un texte passé en argument 
+# et affiche les résultats dans un fichier txt
+# chaque mot sera associé à un tag qui lui est propre, qui correspond à une catégorie grammaticale
+
 # Charger un modèle de base (non-classification)
 model_name = "Dr-BERT/CAS-Biomedical-POS-Tagging"
 
