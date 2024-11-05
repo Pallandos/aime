@@ -1,6 +1,8 @@
 #Tuto:
 #https://medkit-lib.org/user_guide/first_steps.html
 
+#pip install medkit-lib
+
 from pathlib import Path
 from medkit.core.text import TextDocument
 from medkit.text.segmentation import SentenceTokenizer
@@ -69,7 +71,7 @@ entities = matcher.run(syntagmas)
 
 for entity in entities:
     neg_attr = entity.attrs.get(label="is_negated")[0]
-    if not neg_attr.value and entity.label == "problem":
+    if neg_attr.value and entity.label == "problem":
         print(f"text='{entity.text}', label={entity.label}, is_negated={neg_attr.value}")
     #print(f"text='{entity.text}', label={entity.label}, is_negated={neg_attr.value}")
 
