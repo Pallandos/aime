@@ -1,0 +1,351 @@
+F00.0 : Démence de la maladie d'Alzheimer, à début précoce (G30.0†).
+F00.1 : Démence de la maladie d'Alzheimer, à début tardif (G30.1†).
+F00.2 : Démence de la maladie d'Alzheimer, forme atypique ou mixte (G30.8†).
+F00.9 : Démence de la maladie d'Alzheimer, sans précision (G30.9†).
+F01.0 : Démence vasculaire à début aigu.
+F01.1 : Démence vasculaire par infarctus multiples.
+F01.2 : Démence vasculaire souscorticale.
+F01.3 : Démence vasculaire mixte, corticale et souscorticale.
+F01.8 : Autres formes de démence vasculaire.
+F01.9 : Démence vasculaire, sans précision.
+F02.0 : Démence de la maladie de Pick (G31.0†).
+F02.1 : Démence de la maladie de Creutzfeldt–Jakob (A81.0†).
+F02.2 : Démence de la maladie de Huntington (G10†).
+F02.3 : Démence de la maladie de Parkinson (G20†).
+F02.4 : Démence de la maladie due au virus de l'immunodéficience humaine [VIH] (B22.0†).
+F02.8 : Démence au cours d'autres maladies classées ailleurs.
+F03.0 : Démence, sans précision.
+F04.0 : Syndrome amnésique organique, non induit par l'alcool et d'autres substances psychoactives
+F05.0 : Délirium non surajouté à une démence, ainsi décrit.
+F05.1 : Délirium surajouté à une démence.
+F05.8 : Autres formes de délirium.
+F05.9 : Délirium, sans précision.
+F06.0 : État hallucinatoire organique.
+F06.1 : Catatonie organique.
+F06.2 : Trouble délirant organique [d'allure schizophrénique].
+F06.30 : Trouble maniaque organique.
+F06.31 : Trouble bipolaire organique.
+F06.32 : Trouble dépressif organique.
+F06.33 : Trouble affectif mixte organique.
+F06.4 : Trouble anxieux organique.
+F06.5 : Trouble dissociatif organique.
+F06.6 : Labilité [asthénie] émotionnelle organique.
+F06.70 : Trouble cognitif léger non associé à un trouble physique.
+F06.71 : Trouble cognitif léger associé à un trouble physique.
+F06.8 : Autres troubles mentaux précisés dus à une lésion cérébrale et un dysfonctionnement cérébral et à une affection physique.
+F06.9 : Trouble mental sans précision, dû à une lésion cérébrale et un dysfonctionnement cérébral, et à une affection physique.
+F07.0 : Trouble organique de la personnalité.
+F07.1 : Syndrome postencéphalitique.
+F07.2 : Syndrome postcommotionnel.
+F07.8 : Autres troubles organiques de la personnalité et du comportement dus à une affection, une lésion et un dysfonctionnement cérébraux.
+F07.9 : Trouble organique de la personnalité et du comportement dû à une affection, une lésion et un dysfonctionnement cérébraux, sans précision.
+F09.0 : Trouble mental organique ou symptomatique, sans précision.
+F10.0 : Troubles mentaux et du comportement liés à l'utilisation d'alcool.
+F11.0 : Troubles mentaux et du comportement liés à l'utilisation d'opiacés.
+F12.0 : Troubles mentaux et du comportement liés à l'utilisation de dérivés du cannabis.
+F13.0 : Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques.
+F14.0 : Troubles mentaux et du comportement liés à l'utilisation de cocaïne.
+F15.0 : Troubles mentaux et du comportement liés à l'utilisation d'autres stimulants, y compris la caféine.
+F16.0 : Troubles mentaux et du comportement liés à l'utilisation d'hallucinogènes.
+F17.0 : Troubles mentaux et du comportement liés à l'utilisation de tabac.
+F18.0 : Troubles mentaux et du comportement liés à l'utilisation de solvants volatils.
+F19.0 : Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psychoactives.
+F20.0 : Schizophrénie paranoïde.
+F20.1 : Schizophrénie hébéphrénique.
+F20.2 : Schizophrénie catatonique.
+F20.3 : Schizophrénie indifférenciée.
+F20.4 : Dépression postschizophrénique.
+F20.5 : Schizophrénie résiduelle.
+F20.6 : Schizophrénie simple.
+F20.8 : Autres formes de schizophrénie.
+F20.9 : Schizophrénie, sans précision.
+F21.0 : Trouble schizotypique.
+F22.0 : Trouble délirant.
+F22.8 : Autres troubles délirants persistants.
+F22.9 : Trouble délirant persistant, sans précision.
+F23.0 : Trouble psychotique aigu polymorphe, sans symptômes schizophréniques.
+F23.1 : Trouble psychotique aigu polymorphe, avec symptômes schizophréniques.
+F23.2 : Trouble psychotique aigu d'allure schizophrénique.
+F23.3 : Autre trouble psychotique aigu, essentiellement délirant.
+F23.8 : Autres troubles psychotiques aigus et transitoires.
+F23.9 : Trouble psychotique aigu et transitoire, sans précision.
+F24.0 : Trouble délirant induit.
+F25.0 : Trouble schizoaffectif, type maniaque.
+F25.1 : Trouble schizoaffectif, type dépressif.
+F25.2 : Trouble schizoaffectif, type mixte.
+F25.8 : Autres troubles schizoaffectifs.
+F25.9 : Trouble schizoaffectif, sans précision.
+F28.0 : Autres troubles psychotiques non organiques.
+F29.0 : Psychose non organique, sans précision.
+F30.0 : Hypomanie.
+F30.1 : Manie sans symptômes psychotiques.
+F30.20 : Manie avec symptômes psychotiques congruents à l’humeur.
+F30.21 : Manie avec symptômes psychotiques non congruents à l’humeur.
+F30.8 : Autres épisodes maniaques.
+F30.9 : Épisode maniaque, sans précision.
+F31.0 : Trouble affectif bipolaire, épisode actuel hypomaniaque.
+F31.1 : Trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques.
+F31.20 : Trouble affectif bipolaire, épisode actuel maniaque, avec symptômes psychotiques congruents à l’humeur.
+F31.21 : Trouble affectif bipolaire, épisode actuel maniaque, avec symptômes psychotiques non congruents à l’humeur.
+F31.30 : Trouble affectif bipolaire, épisode actuel de dépression légère ou moyenne, sans syndrome somatique.
+F31.31 : Trouble affectif bipolaire, épisode actuel de dépression légère ou moyenne, avec syndrome somatique.
+F31.4 : Trouble affectif bipolaire, épisode actuel de dépression sévère sans symptômes psychotiques.
+F31.5 : Trouble affectif bipolaire, épisode actuel de dépression sévère, avec symptômes psychotiques congruents à l’humeur.
+F31.5 : Trouble affectif bipolaire, épisode actuel de dépression sévère, avec symptômes psychotiques non congruents à l’humeur.
+F31.6 : Trouble affectif bipolaire, épisode actuel mixte.
+F31.7 : Trouble affectif bipolaire, actuellement en rémission.
+F31.8 : Autres troubles affectifs bipolaires.
+F31.9 : Trouble affectif bipolaire, sans précision.
+F32.00 : Épisode dépressif léger, sans syndrome somatique.
+F32.01 : Épisode dépressif léger, avec syndrome somatique.
+F32.10 : Épisode dépressif moyen, sans syndrome somatique.
+F32.11 : Épisode dépressif moyen, avec syndrome somatique.
+F32.2 : Épisode dépressif sévère sans symptômes psychotiques.
+F32.30 : Épisode dépressif sévère, avec symptômes psychotiques congruents à l’humeur.
+F32.31 : Épisode dépressif sévère, avec symptômes psychotiques non congruents à l’humeur.
+F32.8 : Autres épisodes dépressifs.
+F32.9 : Épisode dépressif, sans précision.
+F33.00 : Trouble dépressif récurrent, épisode actuel léger, sans syndrome somatique.
+F33.01 : Trouble dépressif récurrent, épisode actuel léger, avec syndrome somatique.
+F33.10 : Trouble dépressif récurrent, épisode actuel moyen, sans syndrome somatique.
+F33.11 : Trouble dépressif récurrent, épisode actuel moyen, avec syndrome somatique.
+F33.2 : Trouble dépressif récurrent, épisode actuel sévère sans symptômes psychotiques.
+F33.3 : Trouble dépressif récurrent, épisode actuel sévère, avec symptômes psychotiques congruents à l'humeur.
+F33.3 : Trouble dépressif récurrent, épisode actuel sévère, avec symptômes psychotiques non congruent à l'humeur.
+F33.4 : Trouble dépressif récurrent, actuellement en rémission.
+F33.8 : Autres troubles dépressifs récurrents.
+F33.9 : Trouble dépressif récurrent, sans précision.
+F34.0 : Cyclothymie.
+F34.1 : Dysthymie.
+F34.8 : Autres troubles de l'humeur [affectifs] persistants.
+F34.9 : Trouble de l'humeur [affectif] persistant, sans précision.
+F38.0 : Épisode affectif mixte isolé.
+F38.1 : Épisodes dépressifs récurrents de courte durée.
+F38.8 : Autres troubles de l'humeur [affectifs] précisés.
+F39.0 : Trouble de l'humeur [affectif], sans précision.
+F40.00 : Agoraphobie sans trouble panique (actuel) (antérieur).
+F40.01 : Agoraphobie avec trouble panique.
+F40.1 : Phobies sociales.
+F40.2 : Phobies spécifiques (isolées).
+F40.8 : Autres troubles anxieux phobiques.
+F40.9 : Trouble anxieux phobique, sans précision.
+F41.00 : Trouble panique moyen.
+F41.01 : Trouble panique sévère.
+F41.1 : Anxiété généralisée.
+F41.2 : Trouble anxieux et dépressif mixte.
+F41.3 : Autres troubles anxieux mixtes.
+F41.8 : Autres troubles anxieux précisés.
+F41.9 : Trouble anxieux, sans précision.
+F42.0 : Avec idées ou ruminations obsédantes au premier plan.
+F42.1 : Avec comportements compulsifs [rituels obsessionnels] au premier plan.
+F42.2 : Forme mixte, avec idées obsédantes et comportements compulsifs.
+F42.8 : Autres troubles obsessionnels-compulsifs.
+F42.9 : Trouble obsessionnel-compulsif, sans précision.
+F43.00 : Réaction aigüe légère à un facteur de stress.
+F43.01 : Réaction aigüe moyenne à un facteur de stress.
+F43.02 : Réaction aigüe sévère à un facteur de stress.
+F43.1 : État de stress posttraumatique.
+F43.20 : Trouble de l’adaptation, réaction dépressive brève.
+F43.21 : Trouble de l’adaptation, réaction dépressive prolongée.
+F43.22 : Trouble de l’adaptation, réaction mixte, anxieuse et dépressive.
+F43.23 : Trouble de l’adaptation, avec prédominance d’une perturbation d’autres émotions.
+F43.24 : Trouble de l’adaptation, avec prédominance d’une perturbation des conduites.
+F43.25 : Trouble de l’adaptation, avec prédominance d’une perturbation mixte des émotions et des conduites.
+F43.28 : Trouble de l’adaptation, avec prédominance d’une perturbation d’autres symptômes précisés.
+F43.8 : Autres réactions à un facteur de stress sévère.
+F43.9 : Réaction à un facteur de stress sévère, sans précision.
+F44.0 : Amnésie dissociative.
+F44.1 : Fugue dissociative.
+F44.2 : Stupeur dissociative.
+F44.3 : États de transe et de possession.
+F44.4 : Troubles moteurs dissociatifs.
+F44.5 : Convulsions dissociatives.
+F44.6 : Anesthésie et atteintes sensorielles dissociatives.
+F44.7 : Trouble dissociatif [de conversion] mixte.
+F44.80 : Syndrome de Ganser.
+F44.81 : Personnalité multiple.
+F44.82 : Troubles dissociatifs [de conversion] transitoires survenant dans l’enfance ou dans.
+F44.88 : Autres troubles dissociatifs [de conversion] précisés.
+F44.9 : Trouble dissociatif [de conversion], sans précision.
+F45.0 : Somatisation.
+F45.1 : Trouble somatoforme indifférencié.
+F45.2 : Trouble hypocondriaque.
+F45.30 : Dysfonctionnement neurovégétatif d’expression circulatoire.
+F45.32 : Dysfonctionnement neurovégétatif d’expression œsogastrique.
+F45.33 : Dysfonctionnement neurovégétatif d’expression intestinale.
+F45.34 : Dysfonctionnement neurovégétatif d’expression respiratoire.
+F45.35 : Dysfonctionnement neurovégétatif d’expression génito-urinaire.
+F45.38 : Dysfonctionnement neurovégétatif d’expression autre.
+F45.4 : Syndrome douloureux somatoforme persistant.
+F45.8 : Autres troubles somatoformes.
+F45.9 : Trouble somatoforme, sans précision.
+F48.0 : Neurasthénie.
+F48.1 : Syndrome de dépersonnalisation-déréalisation.
+F48.8 : Autres troubles névrotiques précisés.
+F48.9 : Trouble névrotique, sans précision.
+F50.0 : Anorexie mentale.
+F50.1 : Anorexie mentale atypique.
+F50.2 : Boulimie [bulimia nervosa].
+F50.3 : Boulimie atypique.
+F50.4 : Hyperphagie associée à d'autres perturbations psychologiques.
+F50.5 : Vomissements associés à d'autres perturbations psychologiques.
+F50.8 : Autres troubles de l'alimentation.
+F50.9 : Trouble de l'alimentation, sans précision.
+F51.0 : Insomnie non organique.
+F51.1 : Hypersomnie non organique.
+F51.2 : Trouble du rythme veille-sommeil non dû à une cause organique.
+F51.3 : Somnambulisme.
+F51.4 : Terreurs nocturnes.
+F51.5 : Cauchemars.
+F51.8 : Autres troubles du sommeil non organiques.
+F51.9 : Trouble du sommeil non organique, sans précision.
+F52.0 : Absence ou perte de désir sexuel.
+F52.10 : Aversion sexuelle.
+F52.11 : Manque de plaisir sexuel [Anhédonie sexuelle].
+F52.2 : Échec de la réponse génitale.
+F52.3 : Dysfonctionnement orgasmique.
+F52.4 : Éjaculation précoce.
+F52.5 : Vaginisme non organique.
+F52.6 : Dyspareunie non organique.
+F52.7 : Activité sexuelle excessive.
+F52.8 : Autres dysfonctionnements sexuels, non dus à un trouble ou à une maladie organique.
+F52.9 : Dysfonctionnement sexuel non dû à un trouble ou à une maladie organique, sans précision.
+F53.0 : Troubles mentaux et du comportement légers associés à la puerpéralité, non.
+F53.1 : Troubles mentaux et du comportement sévères associés à la puerpéralité, non.
+F53.8 : Autres troubles mentaux et du comportement associés à la puerpéralité, non classés.
+F53.9 : Trouble mental de la puerpéralité, sans précision.
+F54.0 : Facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs.
+F55.0 : Abus d'antidépresseurs.
+F55.1 : Prise régulière de laxatifs. 
+F55.2 : Abus d'analgésiques.
+F55.3 : Abus d'antiacides.
+F55.4 : Abus de vitamines.
+F55.5 : Abus de stéroïdes ou d'hormones.
+F55.6 : Abus de préparation à base de plantes ou de remèdes populaires. 
+F55.8 : Abus d'autres substances n'entraînant pas de dépendance.
+F55.9 : Abus de substances n'entraînant pas de dépendance, sans précision.
+F59.0 : Syndromes comportementaux non précisés associés à des perturbations physiologiques et à des facteurs physiques.
+F60.0 : Personnalité paranoïaque.
+F60.1 : Personnalité schizoïde.
+F60.2 : Personnalité dyssociale.
+F60.30 : Personnalité émotionnellement labile, de type impulsif.
+F60.31 : Personnalité émotionnellement labile, de type borderline.
+F60.4 : Personnalité histrionique.
+F60.5 : Personnalité anankastique.
+F60.6 : Personnalité anxieuse [évitante].
+F60.7 : Personnalité dépendante.
+F60.8 : Autres troubles spécifiques de la personnalité.
+F60.9 : Trouble de la personnalité, sans précision.
+F61.0 : Troubles mixtes de la personnalité.
+F61.1 : Modifications gênantes de la personnalité.
+F62.0 : Modification durable de la personnalité après une expérience de catastrophe.
+F62.1 : Modification durable de la personnalité après une maladie psychiatrique.
+F62.8 : Autres modifications durables de la personnalité.
+F62.9 : Modification durable de la personnalité, sans précision.
+F63.0 : Jeu pathologique.
+F63.1 : Tendance pathologique à allumer des incendies [pyromanie].
+F63.2 : Tendance pathologique à commettre des vols [kleptomanie].
+F63.3 : Trichotillomanie.
+F63.8 : Autres troubles des habitudes et des impulsions.
+F63.9 : Trouble des habitudes et des impulsions, sans précision.
+F64.0 : Transsexualisme.
+F64.1 : Travestisme bivalent.
+F64.2 : Trouble de l'identité sexuelle de l'enfance.
+F64.8 : Autres troubles de l'identité sexuelle.
+F64.9 : Trouble de l'identité sexuelle, sans précision.
+F65.0 : Fétichisme.
+F65.1 : Travestisme fétichiste.
+F65.2 : Exhibitionnisme.
+F65.3 : Voyeurisme.
+F65.4 : Pédophilie.
+F65.5 : Sadomasochisme.
+F65.6 : Troubles multiples de la préférence sexuelle.
+F65.8 : Autres troubles de la préférence sexuelle.
+F65.9 : Trouble de la préférence sexuelle, sans précision.
+F66.0 : Trouble de la maturation sexuelle.
+F66.1 : Orientation sexuelle égodystonique.
+F66.2 : Problème sexuel relationnel.
+F66.8 : Autres troubles du développement psychosexuel.
+F66.9 : Trouble du développement psychosexuel, sans précision.
+F68.0 : Majoration de symptômes physiques pour des raisons psychologiques.
+F68.1 : Production intentionnelle ou simulation de symptômes ou d'une incapacité, soit physique soit psychologique [trouble factice].
+F68.8 : Autres troubles précisés de la personnalité et du comportement chez l'adulte.
+F69.0 : Trouble de la personnalité et du comportement chez l'adulte, sans précision.
+F70.0 : Retard mental léger.
+F71.0 : Retard mental moyen.
+F72.0 : Retard mental grave.
+F73.0 : Retard mental profond.
+F78.0 : Autres formes de retard mental.
+F79.0 : Retard mental, sans précision.
+F80.0 : Trouble spécifique de l'acquisition de l'articulation.
+F80.1 : Trouble de l'acquisition du langage, de type expressif.
+F80.2 : Trouble de l'acquisition du langage, de type réceptif.
+F80.3 : Aphasie acquise avec épilepsie [Landau–Kleffner].
+F80.8 : Autres troubles du développement de la parole et du langage.
+F80.9 : Trouble du développement de la parole et du langage, sans précision.
+F81.0 : Trouble spécifique de la lecture.
+F81.1 : Trouble spécifique de l'acquisition de l'orthographe.
+F81.2 : Trouble spécifique de l'acquisition de l'arithmétique.
+F81.3 : Trouble mixte des acquisitions scolaires.
+F81.8 : Autres troubles du développement des acquisitions scolaires.
+F81.9 : Trouble du développement des acquisitions scolaires, sans précision.
+F82.0 : Trouble spécifique du développement moteur.
+F83.0 : Troubles spécifiques mixtes du développement
+F84.0 : Autisme infantile.
+F84.1 : Autisme atypique.
+F84.1 : Autisme atypique en raison de l’âge de survenue.
+F84.1 : Autisme atypique en raison de la symptomatologie.
+F84.1 : Autisme atypique en raison de l’âge de survenue et de la symptomatologie.
+F84.2 : Syndrome de Rett.
+F84.3 : Autre trouble désintégratif de l'enfance.
+F84.4 : Hyperactivité associée à un retard mental et à des mouvements stéréotypés.
+F84.5 : Syndrome d'Asperger.
+F84.8 : Autres troubles envahissants du développement.
+F84.9 : Trouble envahissant du développement, sans précision.
+F88.0 : Autres troubles du développement psychologique.
+F89.0 : Trouble du développement psychologique, sans précision. 
+F90.0 : Perturbation de l'activité et de l'attention.
+F90.1 : Trouble hyperkinétique et trouble des conduites.
+F90.8 : Autres troubles hyperkinétiques.
+F90.9 : Trouble hyperkinétique, sans précision.
+F91.0 : Trouble des conduites limité au milieu familial.
+F91.1 : Trouble des conduites, type mal socialisé.
+F91.2 : Trouble des conduites, type socialisé.
+F91.3 : Trouble oppositionnel avec provocation.
+F91.8 : Autres troubles des conduites.
+F91.9 : Trouble des conduites, sans précision.
+F92.0 : Troubles des conduites avec dépression.
+F92.8 : Autres troubles mixtes des conduites et troubles émotionnels.
+F92.9 : Trouble mixte des conduites et troubles émotionnels, sans précision.
+F93.0 : Angoisse de séparation de l'enfance.
+F93.1 : Trouble anxieux phobique de l'enfance.
+F93.2 : Anxiété sociale de l'enfance.
+F93.3 : Rivalité dans la fratrie.
+F93.8 : Autres troubles émotionnels de l'enfance.
+F93.9 : Trouble émotionnel de l'enfance, sans précision.
+F94.0 : Mutisme électif.
+F94.1 : Trouble réactionnel de l'attachement de l'enfance.
+F94.2 : Trouble de l'attachement de l'enfance avec désinhibition.
+F94.8 : Autres troubles du fonctionnement social de l'enfance.
+F94.9 : Trouble du fonctionnement social de l'enfance, sans précision.
+F95.0 : Tic transitoire.
+F95.1 : Tic moteur ou vocal chronique.
+F95.2 : Forme associant tics vocaux et tics moteurs [syndrome de Gilles de la Tourette].
+F95.8 : Autres tics.
+F95.9 : Tic, sans précision.
+F98.00 : Énurésie non organique uniquement nocturne.
+F98.01 : Énurésie non organique uniquement diurne.
+F98.02 : Énurésie non organique nocturne et diurne.
+F98.10 : Encoprésie non organique par échec de l’acquisition de la maitrise sphinctérienne.
+F98.11 : Encoprésie non organique avec contrôle sphinctérien adéquat et émission de selles normales dans des endroits inappropriés.
+F98.12 : Encoprésie non organique avec souillure associée à des selles trop liquides.
+F98.2 : Trouble de l'alimentation du nourrisson et de l'enfant.
+F98.3 : Pica du nourrisson et de l'enfant.
+F98.40 : Mouvements stéréotypés sans automutilation.
+F98.41 : Mouvements stéréotypés avec automutilations.
+F98.42 : Mouvements stéréotypés mixtes.
+F98.5 : Bégaiement.
+F98.6 : Bredouillement [langage précipité].
+F98.8 : Autres troubles précisés du comportement et troubles émotionnels apparaissant.
+F98.9 : Trouble du comportement et trouble émotionnel apparaissant habituellement durant.
+F99.0 : Trouble mental, sans autre indication.
