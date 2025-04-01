@@ -1,0 +1,1089 @@
+Démence de la maladie d'Alzheimer, à début précoce
+Démence de la maladie d'Alzheimer, à début tardif
+Démence de la maladie d'Alzheimer, forme atypique ou mixte
+Démence de la maladie d'Alzheimer, sans précision
+Démence vasculaire à début aigu
+Démence vasculaire par infarctus multiples
+Démence vasculaire souscorticale
+Démence vasculaire mixte, corticale et souscorticale
+Autres formes de démence vasculaire
+Démence vasculaire, sans précision
+Démence de la maladie de Pick
+Démence de la maladie de Creutzfeldt–Jakob
+Démence de la maladie de Huntington
+Démence de la maladie de Parkinson
+Démence de la maladie due au virus de l'immunodéficience humaine [VIH]
+Démence au cours d'autres maladies classées ailleurs
+Démence, sans précision
+Syndrome amnésique organique, non induit par l'alcool et d'autres
+Délirium non surajouté à une démence, ainsi décrit
+Délirium surajouté à une démence
+Autres formes de délirium
+Délirium, sans précision
+État hallucinatoire organique
+Catatonie organique
+Trouble délirant organique [d'allure schizophrénique]
+Trouble maniaque organique
+Trouble bipolaire organique
+Trouble dépressif organique
+Trouble affectif mixte organique
+Trouble anxieux organique
+Trouble dissociatif organique
+Labilité [asthénie] émotionnelle organique
+Trouble cognitif léger non associé à un trouble physique
+Trouble cognitif léger associé à un trouble physique
+Autres troubles mentaux précisés dus à une lésion cérébrale et un dysfonctionnement cérébral et à une affection physique
+Trouble mental sans précision, dû à une lésion cérébrale et un dysfonctionnement cérébral, et à une affection physique
+Trouble organique de la personnalité
+Syndrome postencéphalitique
+Syndrome postcommotionnel
+Autres troubles organiques de la personnalité et du comportement dus à une affection, une lésion et un dysfonctionnement cérébraux
+Trouble organique de la personnalité et du comportement dû à une affection, une lésion et un dysfonctionnement cérébraux, sans précision
+Trouble mental organique ou symptomatique, sans précision
+Troubles mentaux et du comportement liés à l'utilisation d'alcool
+Troubles mentaux et du comportement liés à l'utilisation d'opiacés
+Troubles mentaux et du comportement liés à l'utilisation de dérivés du cannabis
+Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques
+Troubles mentaux et du comportement liés à l'utilisation de cocaïne
+Troubles mentaux et du comportement liés à l'utilisation d'autres stimulants, y compris la caféine
+Troubles mentaux et du comportement liés à l'utilisation d'hallucinogènes
+Troubles mentaux et du comportement liés à l'utilisation de tabac
+Troubles mentaux et du comportement liés à l'utilisation de solvants volatils
+Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psychoactives
+Schizophrénie paranoïde
+Schizophrénie hébéphrénique
+Schizophrénie catatonique
+Schizophrénie indifférenciée
+Dépression postschizophrénique
+Schizophrénie résiduelle
+Schizophrénie simple
+Autres formes de schizophrénie
+Schizophrénie, sans précision
+Trouble schizotypique
+Trouble délirant
+Autres troubles délirants persistants
+Trouble délirant persistant, sans précision
+Trouble psychotique aigu polymorphe, sans symptômes schizophréniques
+Trouble psychotique aigu polymorphe, avec symptômes schizophréniques
+Trouble psychotique aigu d'allure schizophrénique
+Autre trouble psychotique aigu, essentiellement délirant
+Autres troubles psychotiques aigus et transitoires
+Trouble psychotique aigu et transitoire, sans précision
+Trouble délirant induit
+Trouble schizoaffectif, type maniaque
+Trouble schizoaffectif, type dépressif
+Trouble schizoaffectif, type mixte
+Autres troubles schizoaffectifs
+Trouble schizoaffectif, sans précision
+Autres troubles psychotiques non organiques
+Psychose non organique, sans précision
+Hypomanie
+Manie sans symptômes psychotiques
+Manie avec symptômes psychotiques congruents à l’humeur
+Manie avec symptômes psychotiques non congruents à l’humeur
+Autres épisodes maniaques
+Épisode maniaque, sans précision
+Trouble affectif bipolaire, épisode actuel hypomaniaque
+Trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques
+Trouble affectif bipolaire, épisode actuel maniaque, avec symptômes psychotiques congruents à l’humeur
+Trouble affectif bipolaire, épisode actuel maniaque, avec symptômes psychotiques non congruents à l’humeur
+Trouble affectif bipolaire, épisode actuel de dépression légère ou moyenne, sans syndrome somatique
+Trouble affectif bipolaire, épisode actuel de dépression légère ou moyenne, avec syndrome somatique
+Trouble affectif bipolaire, épisode actuel de dépression sévère sans symptômes psychotiques
+Trouble affectif bipolaire, épisode actuel de dépression sévère, avec symptômes psychotiques congruents à l’humeur
+Trouble affectif bipolaire, épisode actuel de dépression sévère, avec symptômes psychotiques non congruents à l’humeur
+Trouble affectif bipolaire, épisode actuel mixte
+Trouble affectif bipolaire, actuellement en rémission
+Autres troubles affectifs bipolaires
+Trouble affectif bipolaire, sans précision
+Épisode dépressif léger, sans syndrome somatique
+Épisode dépressif léger, avec syndrome somatique
+Épisode dépressif moyen, sans syndrome somatique
+Épisode dépressif moyen, avec syndrome somatique
+Épisode dépressif sévère sans symptômes psychotiques
+Épisode dépressif sévère, avec symptômes psychotiques congruents à l’humeur
+Épisode dépressif sévère, avec symptômes psychotiques non congruents à l’humeur
+Autres épisodes dépressifs
+Épisode dépressif, sans précision
+Trouble dépressif récurrent, épisode actuel léger, sans syndrome somatique
+Trouble dépressif récurrent, épisode actuel léger, avec syndrome somatique
+Trouble dépressif récurrent, épisode actuel moyen, sans syndrome somatique
+Trouble dépressif récurrent, épisode actuel moyen, avec syndrome somatique
+Trouble dépressif récurrent, épisode actuel sévère sans symptômes psychotiques
+Trouble dépressif récurrent, épisode actuel sévère, avec symptômes psychotiques congruents à l’humeur
+Trouble dépressif récurrent, épisode actuel sévère, avec symptômes psychotiques non congruents à l’humeur
+Trouble dépressif récurrent, actuellement en rémission
+Autres troubles dépressifs récurrents
+Trouble dépressif récurrent, sans précision
+Cyclothymie
+Dysthymie
+Autres troubles de l'humeur [affectifs] persistants
+Trouble de l'humeur [affectif] persistant, sans précision
+Épisode affectif mixte isolé
+Épisodes dépressifs récurrents de courte durée
+Autres troubles de l'humeur [affectifs] précisés
+Trouble de l'humeur [affectif], sans précision
+Agoraphobie sans trouble panique (actuel) (antérieur)
+Agoraphobie avec trouble panique
+Phobies sociales
+Phobies spécifiques (isolées)
+Autres troubles anxieux phobiques
+Trouble anxieux phobique, sans précision État phobique SAI
+Trouble panique moyen
+Trouble panique sévère
+Anxiété généralisée
+Trouble anxieux et dépressif mixte
+Autres troubles anxieux mixtes
+Autres troubles anxieux précisés
+Trouble anxieux, sans précision
+Avec idées ou ruminations obsédantes au premier plan
+Avec comportements compulsifs [rituels obsessionnels] au premier plan
+Forme mixte, avec idées obsédantes et comportements compulsifs
+Autres troubles obsessionnels-compulsifs
+Trouble obsessionnel-compulsif, sans précision
+Réaction aigüe légère à un facteur de stress
+Réaction aigüe moyenne à un facteur de stress
+Réaction aigüe sévère à un facteur de stress
+État de stress posttraumatique.
+Trouble de l’adaptation, réaction dépressive brève
+Trouble de l’adaptation, réaction dépressive prolongée
+Trouble de l’adaptation, réaction mixte, anxieuse et dépressive
+Trouble de l’adaptation, avec prédominance d’une perturbation d’autres émotions
+Trouble de l’adaptation, avec prédominance d’une perturbation des conduites
+Trouble de l’adaptation, avec prédominance d’une perturbation mixte des émotions et des conduites
+Trouble de l’adaptation, avec prédominance d’une perturbation d’autres symptômes précisés
+Autres réactions à un facteur de stress sévère
+Réaction à un facteur de stress sévère, sans précision
+Amnésie dissociative
+Fugue dissociative
+Stupeur dissociative
+États de transe et de possession
+Troubles moteurs dissociatifs
+Convulsions dissociatives
+Anesthésie et atteintes sensorielles dissociatives
+Trouble dissociatif [de conversion] mixte
+Syndrome de Ganser
+Personnalité multiple
+Troubles dissociatifs [de conversion] transitoires survenant dans l’enfance ou dans l’adolescence
+Autres troubles dissociatifs [de conversion] précisés
+Trouble dissociatif [de conversion], sans précision
+Somatisation
+Trouble somatoforme indifférencié
+Trouble hypocondriaque
+Dysfonctionnement neurovégétatif d’expression circulatoire
+Dysfonctionnement neurovégétatif d’expression œsogastrique
+Dysfonctionnement neurovégétatif d’expression intestinale
+Dysfonctionnement neurovégétatif d’expression respiratoire
+Dysfonctionnement neurovégétatif d’expression génito-urinaire
+Dysfonctionnement neurovégétatif d’expression autre
+Syndrome douloureux somatoforme persistant
+Autres troubles somatoformes
+Trouble somatoforme, sans précision
+Neurasthénie
+Syndrome de dépersonnalisation-déréalisation
+Autres troubles névrotiques précisés
+Trouble névrotique, sans précision
+Anorexie mentale
+Anorexie mentale atypique
+Boulimie [bulimia nervosa]
+Boulimie atypique
+Hyperphagie associée à d'autres perturbations psychologiques
+Vomissements associés à d'autres perturbations psychologiques
+Autres troubles de l'alimentation
+Trouble de l'alimentation, sans précision
+Insomnie non organique
+Hypersomnie non organique
+Trouble du rythme veille-sommeil non dû à une cause organique
+Somnambulisme
+Terreurs nocturnes
+Cauchemars
+Autres troubles du sommeil non organiques
+Trouble du sommeil non organique, sans précision
+Absence ou perte de désir sexuel
+Aversion sexuelle
+Manque de plaisir sexuel [Anhédonie sexuelle]
+Échec de la réponse génitale
+Dysfonctionnement orgasmique
+Éjaculation précoce
+Vaginisme non organique
+Dyspareunie non organique
+Activité sexuelle excessive
+Autres dysfonctionnements sexuels, non dus à un trouble ou à une maladie organique
+Dysfonctionnement sexuel non dû à un trouble ou à une maladie organique, sans précision
+Troubles mentaux et du comportement légers associés à la puerpéralité, non classés ailleurs
+Troubles mentaux et du comportement sévères associés à la puerpéralité, non classés ailleurs
+Autres troubles mentaux et du comportement associés à la puerpéralité, non classés ailleurs
+Trouble mental de la puerpéralité, sans précision
+Facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs
+.+0 Abus d'antidépresseurs
+.+1 Prise régulière de laxatifs
+.+2 Abus d'analgésiques
+.+3 Abus d'antiacides
+.+4 Abus de vitamines
+.+5 Abus de stéroïdes ou d'hormones
+.+6 Abus de préparation à base de plantes ou de remèdes populaires
+.+8 Abus d'autres substances n'entraînant pas de dépendance
+.+9 Abus de substances n'entraînant pas de dépendance, sans précision
+Syndromes comportementaux non précisés associés à des perturbations physiologiques et à des facteurs physiques
+Personnalité paranoïaque
+Personnalité schizoïde
+Personnalité dyssociale
+Personnalité émotionnellement labile, de type impulsif
+Personnalité émotionnellement labile, de type borderline
+Personnalité histrionique
+Personnalité anankastique
+Personnalité anxieuse [évitante]
+Personnalité dépendante
+Autres troubles spécifiques de la personnalité
+Trouble de la personnalité, sans précision
+Troubles mixtes de la personnalité.
+Modifications gênantes de la personnalité.
+Modification durable de la personnalité après une expérience de catastrophe
+Modification durable de la personnalité après une maladie psychiatrique
+Autres modifications durables de la personnalité
+Modification durable de la personnalité, sans précision
+Jeu pathologique
+Tendance pathologique à allumer des incendies [pyromanie]
+Tendance pathologique à commettre des vols [kleptomanie].
+Trichotillomanie
+Autres troubles des habitudes et des impulsions
+Trouble des habitudes et des impulsions, sans précision
+Transsexualisme
+Travestisme bivalent
+Trouble de l'identité sexuelle de l'enfance
+Autres troubles de l'identité sexuelle
+Trouble de l'identité sexuelle, sans précision
+Fétichisme
+Travestisme fétichiste
+Exhibitionnisme
+Voyeurisme
+Pédophilie
+Sadomasochisme
+Troubles multiples de la préférence sexuelle
+Autres troubles de la préférence sexuelle
+Trouble de la préférence sexuelle, sans précision
+Trouble de la maturation sexuelle
+Orientation sexuelle égodystonique
+Problème sexuel relationnel
+Autres troubles du développement psychosexuel
+Trouble du développement psychosexuel, sans précision
+Majoration de symptômes physiques pour des raisons psychologiques
+Production intentionnelle ou simulation de symptômes ou d'une incapacité, soit physique soit psychologique [trouble factice]
+Autres troubles précisés de la personnalité et du comportement chez l'adulte
+Trouble de la personnalité et du comportement chez l'adulte, sans précision
+Retard mental léger
+Retard mental moyen
+Retard mental grave
+Retard mental profond
+Autres formes de retard mental
+Retard mental, sans précision
+Trouble spécifique de l'acquisition de l'articulation
+Trouble de l'acquisition du langage, de type expressif
+Trouble de l'acquisition du langage, de type réceptif
+Aphasie acquise avec épilepsie [Landau–Kleffner]
+Autres troubles du développement de la parole et du langage
+Trouble du développement de la parole et du langage, sans précision
+Trouble spécifique de la lecture
+Trouble spécifique de l'acquisition de l'orthographe
+Trouble spécifique de l'acquisition de l'arithmétique
+Trouble mixte des acquisitions scolaires
+Autres troubles du développement des acquisitions scolaires
+Trouble du développement des acquisitions scolaires, sans précision
+Trouble spécifique du développement moteur
+Troubles spécifiques mixtes du développement
+Autisme infantile
+Autisme atypique en raison de l’âge de survenue
+Autisme atypique en raison de la symptomatologie
+Autisme atypique en raison de l’âge de survenue et de la symptomatologie
+Syndrome de Rett
+Autre trouble désintégratif de l'enfance
+Hyperactivité associée à un retard mental et à des mouvements stéréotypés
+Syndrome d'Asperger
+Autres troubles envahissants du développement
+Trouble envahissant du développement, sans précision
+Autres troubles du développement psychologique
+Trouble du développement psychologique, sans précision
+Perturbation de l'activité et de l'attention
+Trouble hyperkinétique et trouble des conduites
+Autres troubles hyperkinétiques
+Trouble hyperkinétique, sans précision
+Trouble des conduites limité au milieu familial
+Trouble des conduites, type mal socialisé
+Trouble des conduites, type socialisé
+Trouble oppositionnel avec provocation
+Autres troubles des conduites
+Trouble des conduites, sans précision
+Troubles des conduites avec dépression
+Autres troubles mixtes des conduites et troubles émotionnels
+Trouble mixte des conduites et troubles émotionnels, sans précision
+Angoisse de séparation de l'enfance
+Trouble anxieux phobique de l'enfance
+Anxiété sociale de l'enfance
+Rivalité dans la fratrie
+Anxiété généralisée de l’enfance
+Trouble émotionnel de l'enfance, sans précision
+Mutisme électif
+Trouble réactionnel de l'attachement de l'enfance
+Trouble de l'attachement de l'enfance avec désinhibition
+Autres troubles du fonctionnement social de l'enfance
+Trouble du fonctionnement social de l'enfance, sans précision
+Tic transitoire
+Tic moteur ou vocal chronique
+Forme associant tics vocaux et tics moteurs [syndrome de Gilles de la Tourette]
+Autres tics
+Tic, sans précision
+Énurésie non organique uniquement nocturne
+Énurésie non organique uniquement diurne
+Énurésie non organique nocturne et diurne
+Encoprésie non organique par échec de l’acquisition de la maitrise sphinctérienne
+Encoprésie non organique avec contrôle sphinctérien adéquat et émission de selles normales dans des endroits inappropriés
+Encoprésie non organique avec souillure associée à des selles trop liquides
+Trouble de l'alimentation du nourrisson et de l'enfant
+Pica du nourrisson et de l'enfant
+Mouvements stéréotypés sans automutilation
+Mouvements stéréotypés avec automutilations
+Mouvements stéréotypés mixtes
+Bégaiement
+Bredouillement [langage précipité]
+Autres troubles précisés du comportement et troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence
+Trouble du comportement et trouble émotionnel apparaissant habituellement durant l'enfance et l'adolescence, sans précision
+Trouble mental, sans autre indication
+Examen médical général
+Examen de routine de l'enfant
+Examen à la période de croissance rapide de l'enfance
+Examen de l'adolescent en cours de croissance
+Examen psychiatrique général, non classé ailleurs
+Examen d'un donneur éventuel d'organe et de tissu
+Examen de comparaison et de contrôle dans le cadre d'un programme de recherche clinique
+Autres examens généraux
+Examen des yeux et de la vision
+Examen des oreilles et de l'audition
+Examen dentaire
+Mesure de la tension artérielle
+Examen gynécologique (de routine) (général)
+Tests cutanés de diagnostic et de sensibilisation
+Examen radiologique, non classé ailleurs
+Examens de laboratoire
+Autres examens spéciaux précisés
+Examen spécial, sans précision
+Examen pour l'admission dans une institution éducative
+Examen d'embauche
+Examen pour l'admission dans une institution
+Examen d'incorporation dans l'armée
+Examen pour le permis de conduire
+Examen pour la pratique d'un sport
+Examen à des fins d'assurance
+Délivrance d'un certificat médical
+Autres examens à des fins administratives
+Examen à des fins administratives, sans précision
+Mise en observation pour suspicion de tuberculose
+Mise en observation pour suspicion de tumeur maligne
+Mise en observation pour suspicion de troubles mentaux et du comportement
+Mise en observation pour suspicion d'affection du système nerveux
+Mise en observation pour suspicion d'infarctus du myocarde
+Mise en observation pour suspicion d'autres affections cardiovasculaires
+Mise en observation pour suspicion d'effet toxique de substances ingérées
+Mise en observation pour suspicion d'autres maladies
+Mise en observation pour suspicion de maladie, sans précision
+Alcootest et recherche de substances pharmacologiques dans le sang
+Examen et mise en observation après un accident de transport
+Examen et mise en observation après un accident du travail
+Examen et mise en observation après un autre accident
+Examen et mise en observation après allégation de viol et de séduction
+Examen et mise en observation après d'autres blessures dues à une agression
+Examen psychiatrique général, à la demande des autorités
+Examen et mise en observation pour enregistrement électroencéphalographique de longue durée
+Examen et mise en observation pour polysomnographie
+Examen et mise en observation pour bilan préopératoire
+Autres examens et mises en observation pour d'autres raisons précisées
+Examen et mise en observation pour une raison non précisée
+Examen de contrôle après traitement chirurgical d'une tumeur maligne
+Examen de contrôle après radiothérapie pour tumeur maligne
+Examen de contrôle après chimiothérapie pour tumeur maligne
+Examen de contrôle après traitements combinés pour tumeur maligne
+Examen de contrôle après d'autres traitements pour tumeur maligne
+Examen de contrôle après traitement pour tumeur maligne, sans précision
+Examen de contrôle après traitement chirurgical d'autres affections
+Examen de contrôle après radiothérapie pour d'autres affections
+Examen de contrôle après chimiothérapie pour d'autres affections
+Examen de contrôle après psychothérapie
+Examen de contrôle après traitement d'une fracture
+Examen de contrôle après traitements combinés pour d'autres affections
+Examen de contrôle après d'autres traitements pour d'autres affections
+Examen de contrôle après traitement pour une affection, sans précision
+Examen de médecine du travail
+Examen général de routine des résidents d'institutions
+Examen général de routine des forces armées
+Examen général de routine des équipes sportives
+Examens généraux de routine d'autres souspopulations définies
+Examen spécial de dépistage de maladies infectieuses intestinales
+Examen spécial de dépistage de tuberculose pulmonaire
+Examen spécial de dépistage d'autres maladies bactériennes
+Examen spécial de dépistage des infections dont le mode de transmission est essentiellement sexuel
+Examen spécial de dépistage du virus de l'immunodéficience humaine [VIH]
+Examen spécial de dépistage d'autres maladies à virus
+Examen spécial de dépistage d'autres maladies à protozoaires et helminthiases
+Examen spécial de dépistage d'autres maladies infectieuses et parasitaires
+Examen spécial de dépistage de maladies infectieuses et parasitaires, sans précision
+Examen spécial de dépistage de tumeur de l'estomac
+Examen spécial de dépistage de tumeur de l'intestin
+Examen spécial de dépistage de tumeur de l'appareil respiratoire
+Examen spécial de dépistage de tumeur du sein
+Examen spécial de dépistage de tumeur du col de l'utérus
+Examen spécial de dépistage de tumeur de la prostate
+Examen spécial de dépistage de tumeur de la vessie
+Examen spécial de dépistage de tumeurs d'autres localisations
+Examen spécial de dépistage d'une tumeur, sans précision
+Examen spécial de dépistage de maladies du sang, des organes hématopoïétiques£ et de certains troubles du système immunitaire
+Examen spécial de dépistage de diabète sucré
+Examen spécial de dépistage des troubles de la nutrition
+Examen spécial de dépistage des troubles mentaux et du comportement
+Examen spécial de dépistage de certains troubles du développement de l'enfance
+Examen spécial de dépistage des affections des yeux
+Examen spécial de dépistage des affections des oreilles
+Examen spécial de dépistage des affections cardiovasculaires
+Examen spécial de dépistage des malformations congénitales et anomalies chromosomiques
+Examen spécial de dépistage d'autres maladies précisées
+Examen spécial de dépistage, sans précision
+Sujets en contact avec et exposés à des maladies infectieuses intestinales
+Sujets en contact avec et exposés à la tuberculose
+Sujets en contact avec et exposés à des infections dont le mode de transmission est essentiellement sexuel
+Sujets en contact avec et exposés à la rage
+Sujets en contact avec et exposés à la rubéole
+Sujets en contact avec et exposés à l'hépatite virale
+Sujets en contact avec et exposés au virus de l'immunodéficience humaine [VIH]
+Sujets en contact avec et exposés à la pédiculose, l'acariase et à d'autres infestations
+Sujets en contact avec et exposés à d'autres maladies transmissibles
+Sujets en contact avec et exposés à une maladie transmissible non précisée
+Sujet porteur de typhoïde
+Sujet porteur d'autres maladies intestinales infectieuses
+Sujet porteur de diphtérie
+Sujet porteur d'autres maladies bactériennes précisées
+Sujet porteur de maladies dont le mode de transmission est essentiellement sexuel
+Sujet porteur d'une infection à virus lymphotrope des lymphocytes T humains de type 1 [HTLV-1]
+Sujet porteur d'infection tuberculeuse latente
+Sujet porteur d'autres maladies infectieuses
+Sujet porteur d'une maladie infectieuse, sans précision
+Nécessité d'une vaccination contre le choléra seul
+Nécessité d'une vaccination contre la typhoïde-paratyphoïde seule [TAB]
+Nécessité d'une vaccination contre la tuberculose [BCG]
+Nécessité d'une vaccination contre la peste
+Nécessité d'une vaccination contre la tularémie
+Nécessité d'une vaccination contre le tétanos seul
+Nécessité d'une vaccination contre la diphtérie seule
+Nécessité d'une vaccination contre la coqueluche seule
+Nécessité d'une vaccination contre d'autres maladies bactériennes uniques
+Nécessité d'une vaccination contre la poliomyélite
+Nécessité d'une vaccination contre l'encéphalite virale transmise par les arthropodes
+Nécessité d'une vaccination contre la rage
+Nécessité d'une vaccination contre la fièvre jaune
+Nécessité d'une vaccination contre la rougeole seule
+Nécessité d'une vaccination contre la rubéole seule
+Nécessité d'une vaccination contre l'hépatite virale
+Nécessité d'une vaccination contre les oreillons seuls
+Nécessité d'une vaccination contre la grippe
+Nécessité d'une vaccination contre d'autres maladies virales uniques précisées
+Nécessité d'une vaccination contre la leishmaniose
+Nécessité d'une vaccination contre d'autres maladies infectieuses uniques précisées
+Nécessité d'une vaccination contre une maladie infectieuse, sans précision
+Nécessité d'une vaccination contre le choléra et la typhoïde-parathyphoïde [choléra + TAB]
+Nécessité d'une vaccination associée contre diphtérie-tétanos-coqueluche [DTCoq]
+Nécessité d'une vaccination contre diphtérie-tétanos-coqueluche et typhoïde- paratyphoïde [DTCoq + TAB]
+Nécessité d'une vaccination contre diphtérie-tétanos-coqueluche et poliomyélite [DTCoq + polio]
+Nécessité d'une vaccination contre rougeole-oreillons-rubéole [ROR]
+Nécessité d'une vaccination contre d'autres associations de maladies infectieuses
+Nécessité d'une vaccination associée contre plusieurs maladies infectieuses, sans précision
+Vaccination non faite en raison d'une contre-indication
+Vaccination non faite par décision du sujet pour raisons de conviction ou de pression sociale
+Vaccination non faite par décision du sujet pour des raisons autres et non précisées
+Vaccination non faite pour d'autres raisons
+Vaccination non faite, sans précision
+Isolement
+Immunothérapie prophylactique
+Autres mesures de chimiothérapie prophylactique
+Autres mesures prophylactiques précisées
+Mesure prophylactique, sans précision
+Conseils et avis généraux concernant la contraception
+Mise en place d'un dispositif contraceptif (intra-utérin)
+Stérilisation
+Extraction cataméniale
+Surveillance de contraceptifs
+Surveillance d'un dispositif contraceptif (intra-utérin)
+Autres prises en charge d'une contraception
+Prise en charge d'une contraception, sans précision
+Tuboplastie ou vasoplastie après stérilisation
+Insémination artificielle
+Fécondation in vitro
+Autres méthodes de fécondation assistée
+Recherches et tests en vue d'une procréation
+Conseil génétique
+Conseils et avis généraux en matière de procréation
+Greffe de tissu ovarien pour préservation de la fertilité
+Autres mesures et procédures procréatives
+Mesure procréative, sans précision
+Grossesse non (encore) confirmée
+Grossesse confirmée
+Surveillance d'une première grossesse normale
+Surveillance d'une autre grossesse normale
+Surveillance d'une grossesse normale, sans précision
+Surveillance d'une grossesse avec antécédent de stérilité
+Surveillance d'une grossesse avec antécédent d'avortement
+Surveillance d'une grossesse avec d'autres antécédents obstétricaux pathologiques et difficultés à procréer
+Surveillance d'une grossesse avec antécédent de soins prénatals insuffisants
+Surveillance de grossesse avec multiparité élevée
+Surveillance d'une primipare âgée
+Surveillance d'une primipare très jeune
+Surveillance d'une grossesse à haut risque du fait de problèmes sociaux
+Surveillance d'autres grossesses à haut risque
+Surveillance de grossesse à haut risque, sans précision
+Dépistage prénatal d'anomalies chromosomiques
+Dépistage prénatal d'un taux élevé d'alphafœtoprotéines
+Autres dépistages prénatals par amniocentèse
+Dépistage prénatal de malformations par échographie et autres méthodes physiques
+Dépistage prénatal de retard de croissance du fœtus par échographie et autres méthodes physiques
+Dépistage prénatal d'iso-immunisation
+Autres dépistages prénatals
+Dépistage prénatal, sans précision
+Naissance unique, enfant vivant
+Naissance unique, enfant mort-né
+Naissance gémellaire, jumeaux nés vivants
+Naissance gémellaire, l'un des jumeaux né vivant, l'autre mort-né
+Naissance gémellaire, jumeaux mort-nés
+Autres naissances multiples, tous nés vivants
+Autres naissances multiples, certains enfants nés vivants
+Autres naissances multiples, tous mort-nés
+Résultat de l'accouchement, sans précision
+Enfant unique, né à l'hôpital
+Enfant unique, né hors d'un hôpital
+Enfant unique, lieu de naissance non précisé
+Jumeaux, nés à l'hôpital
+Jumeaux, nés hors d'un hôpital
+Jumeaux, lieu de naissance non précisé
+Autres naissances multiples, enfants nés à l'hôpital
+Autres naissances multiples, enfants nés hors d'un hôpital
+Autres naissances multiples, lieu de naissance non précisé
+Soins et examens immédiatement après un accouchement hors d’un établissement de santé
+Soins et examens immédiatement après l’accouchement, autres et sans précision
+Soins et examens de l'allaitement maternel
+Contrôle de routine au cours du postpartum
+Ablation prophylactique de sein
+Ablation prophylactique d’organe de l’appareil génital féminin
+Ablation prophylactique d’organe de l’appareil digestif
+Ablation prophylactique d'autres organes
+Autres opérations prophylactiques
+Opération prophylactique, sans précision
+Implant de cheveux
+Autres opérations plastiques pour raisons esthétiques
+Circoncision rituelle et de routine
+Perçage du lobe de l'oreille
+Intervention de confort
+Autres thérapies sans raison médicale, non classées ailleurs
+Thérapie sans raison médicale, sans précision
+Soins de contrôle comprenant une opération plastique de la tête et du cou
+Soins de contrôle comprenant une opération plastique du sein
+Soins de contrôle comprenant une opération plastique d'autres parties du tronc
+Soins de contrôle comprenant une opération plastique des extrémités supérieures
+Soins de contrôle comprenant une opération plastique des extrémités inférieures
+Soins de contrôle comprenant une opération plastique d'autres parties du corps
+Soins de contrôle comprenant une opération plastique, sans précision
+Surveillance de trachéostomie
+Surveillance de gastrostomie
+Surveillance d'iléostomie
+Surveillance de colostomie
+Surveillance d'autres stomies de l'appareil digestif
+Surveillance de cystostomie
+Surveillance d'autres stomies des voies urinaires
+Surveillance de vagin artificiel
+Surveillance d'autres stomies
+Surveillance d'une stomie non précisée
+Mise en place et ajustement d'un bras artificiel (total) (partiel)
+Mise en place et ajustement d'une jambe artificielle (totale) (partielle)
+Mise en place et ajustement d'un œil artificiel
+Mise en place et ajustement d'une prothèse externe du sein
+Mise en place et ajustement d'autres appareils de prothèse externe
+Mise en place et ajustement d'un appareil de prothèse externe non précisé
+Ajustement et entretien de dispositifs cardiaques
+Ajustement et entretien d'une pompe à perfusion
+Ajustement et entretien d'un dispositif d'accès vasculaire
+Ajustement et entretien d'une prothèse auditive implantée
+Ajustement et entretien d’une prothèse interne urinaire
+Ajustement et entretien d’une prothèse interne génitale
+Ajustement et entretien d’une prothèse intraoculaire
+Ajustement et entretien d’une prothèse interne des voies aériennes supérieures
+Ajustement et entretien d’une prothèse interne du système nerveux central
+Ajustement et entretien d’autres prothèses internes précisées
+Ajustement et entretien d'une prothèse interne non précisée
+Mise en place et ajustement de lunettes et verres de contact
+Mise en place et ajustement d'un appareil auditif
+Mise en place et ajustement d'autres appareils en rapport avec le système nerveux et les organes des sens
+Mise en place et ajustement d'une prothèse dentaire
+Mise en place et ajustement d'un appareil orthodontique
+Mise en place et ajustement d'une iléostomie et autres dispositifs intestinaux
+Mise en place et ajustement d'un appareil urinaire
+Mise en place et ajustement d'un appareil orthopédique
+Mise en place et ajustement d'autres appareils précisés
+Mise en place et ajustement d'un appareil, sans précision
+Soins de contrôle impliquant l'enlèvement d'une plaque et autre prothèse interne de fixation
+Soins de contrôle d’appareil externe de fixation ou de traction
+Autres soins de contrôle orthopédiques, NCA
+Soin de contrôle orthopédique, sans précision
+Surveillance des sutures et pansements chirurgicaux
+Autres soins de contrôle chirurgicaux précisés
+Soin de contrôle chirurgical, sans précision
+Soins préparatoires en vue d'une dialyse
+Dialyse extracorporelle
+Séance de dialyse péritonéale automatisée [DPA]
+Séance de dialyse péritonéale continue ambulatoire [DPCA]
+Rééducation cardiaque
+Autres thérapies physiques
+Sevrage d'alcool
+Rééducation des drogués et après abus de médicaments
+Psychothérapie, non classée ailleurs
+Orthophonie
+Éducation de la vision [orthoptique]
+Ergothérapie et rééducation professionnelle, non classées ailleurs
+Soins impliquant d'autres moyens de rééducation
+Soin impliquant une rééducation, sans précision
+Préparation à une radiothérapie
+Séance d’irradiation
+Séance de chimiothérapie pour tumeur
+Autres formes de chimiothérapie
+Séance de transfusion de produit sanguin labile
+Séance d’aphérèse sanguine
+Soins préparatoires pour traitement ultérieur, non classés ailleurs
+Soins palliatifs
+Désensibilisation aux allergènes
+Séance d’oxygénothérapie hyperbare
+Autres formes précisées de soins médicaux, non classées ailleurs
+Soin médical, sans précision
+Donneur de sang
+Donneur de peau
+Donneur d'os
+Donneur de moelle osseuse
+Donneur de rein
+Donneur de cornée
+Donneur de foie
+Donneur de cœur
+Don ou prélèvement d’ovocytes ou de tissu ovarien
+Prélèvement d’ovocytes pour assistance médicale à la procréation (AMP)
+Prélèvement d’ovocytes ou de tissu ovarien pour préservation de la fertilité
+Prélèvement d’ovocytes pour autoconservation
+Prélèvement d’ovocytes pour d’autres motifs précisés
+Donneur d’autres organes et tissus non classés ailleurs
+Donneur d'organe ou de tissu non précisé
+Acte non effectué en raison de contre-indication
+Acte non effectué par décision du sujet pour raisons de conviction et de pression sociale
+Acte non effectué par décision du sujet pour des raisons autres et non précisées
+Acte non effectué pour d'autres raisons
+Acte non effectué, raison non précisée
+Convalescence après intervention chirurgicale
+Convalescence après radiothérapie
+Convalescence après chimiothérapie
+Convalescence après psychothérapie
+Convalescence après traitement d'une fracture
+Convalescence après traitements combinés
+Convalescence après un autre traitement
+Convalescence après un traitement non précisé
+Analphabétisme et illettrisme
+Faibles niveaux éducatifs, autres et sans précision
+Scolarisation inexistante ou inaccessible
+Échec aux examens
+Mauvais résultats scolaires
+Mauvaise adaptation éducative et difficultés avec les enseignants et les autres élèves
+Autres difficultés liées à l'éducation et l'alphabétisation
+Difficulté liée à l'éducation et l'alphabétisation, sans précision
+Chômage, sans précision
+Changement d'emploi
+Menace de perte d'emploi
+Rythme de travail pénible
+Désaccord avec le supérieur et les collègues
+Mauvaise adaptation au travail
+Autres difficultés physiques et mentales liées à l'emploi
+Difficultés liées à l'emploi, autres et sans précision
+Exposition professionnelle au bruit
+Exposition professionnelle à des rayonnements
+Exposition professionnelle à la poussière
+Exposition professionnelle à d'autres polluants atmosphériques
+Exposition professionnelle à des substances toxiques agricoles
+Exposition professionnelle à des substances toxiques dans d'autres industries
+Exposition professionnelle à des températures extrêmes
+Exposition professionnelle à des vibrations
+Exposition professionnelle à d'autres facteurs de risques
+Exposition professionnelle à un facteur de risque, sans précision
+Exposition au bruit
+Exposition à la pollution atmosphérique
+Exposition à la pollution de l'eau
+Exposition à la pollution du sol
+Exposition aux rayonnements
+Exposition à d'autres formes de pollution
+Approvisionnement insuffisant en eau potable
+Exposition à la fumée du tabac
+Autres difficultés liées à l'environnement physique
+Difficulté liée à l'environnement physique, sans précision
+Sans abri
+Logement insalubre ou impropre à l’habitation
+Logement sans confort
+Logement inadéquat du fait de l’état de santé de la personne
+Logement en habitat temporaire ou de fortune
+Logements inadéquats, autres et non précisés
+Désaccord avec les voisins, les locataires et le propriétaire
+Difficulté liée à la vie en institution
+Alimentation défectueuse
+Absence totale de revenu, d’aide et de prestation financières
+Situations de pauvreté extrême, autres et sans précision
+Bénéficiaire de l’aide de l’État à la complémentaire santé
+Bénéficiaire de l’AME
+Bénéficiaire de minima sociaux
+Faibles revenus, autres et non précisés
+Couverture sociale et secours insuffisants
+Absence de couverture sociale
+Couverture sociale et secours insuffisants, autres et non précisés
+Autres difficultés liées au logement et aux conditions économiques
+Difficulté liée au logement et aux conditions économiques, sans précision
+Difficultés d'ajustement aux transitions entre les différentes périodes de vie
+Situation parentale atypique
+Personne vivant seule à son domicile
+Solitudes, autres et non précisées
+Difficultés liées à la langue
+Difficultés d’acculturation, autres et non précisées
+Exclusion et rejet sociaux
+Cible d'une discrimination et d'une persécution
+Autres difficultés liées à l'environnement social
+Difficulté liée à l'environnement social, sans précision
+Perte de relation affective pendant l'enfance
+Départ du foyer pendant l'enfance
+Changements dans le tissu des relations familiales pendant l'enfance
+Événements résultant de la perte de l'estime de soi pendant l'enfance
+Difficultés liées à de possibles sévices sexuels infligés à un enfant par une personne de son entourage immédiat
+Difficultés liées à de possibles sévices sexuels infligés à un enfant par une personne étrangère à son entourage immédiat
+Difficultés liées à de possibles sévices physiques infligés à un enfant
+Expérience personnelle terrifiante
+Autres difficultés liées à une enfance malheureuse
+Difficulté liée à une enfance malheureuse, sans précision
+Surveillance inadéquate de la part des parents
+Surprotection parentale
+Éducation dans une institution
+Hostilité envers un enfant transformé en bouc émissaire
+Négligence affective
+Autres difficultés liées à des négligences dans l'éducation
+Pression parentale inappropriée et autres défauts de l'éducation
+Autres difficultés précisées liées à l'éducation
+Difficulté liée à l'éducation, sans précision
+Difficultés dans les rapports avec le conjoint ou le partenaire
+Difficultés dans les rapports avec les parents et les beaux-parents
+Soutien familial inadéquat
+Absence d'un des membres de la famille
+Disparition et décès d'un membre de la famille
+Dislocation de la famille par séparation et divorce
+Parent à charge au domicile, nécessitant des soins
+Autres événements difficiles ayant une incidence sur la famille et le foyer
+Autres difficultés précisées liées à l'entourage immédiat
+Difficulté liée à l'entourage immédiat, sans précision
+Difficultés liées à une grossesse non désirée
+Difficultés liées à une multiparité
+Recherche et acceptation d'interventions physiques, nutritionnelles et chimiques connues comme dangereuses et nuisibles
+Recherche et acceptation d'interventions comportementales et psychologiques connues comme dangereuses et nuisibles
+Désaccord avec les conseillers
+Condamnation sans emprisonnement, après procès civil ou pénal
+Emprisonnement et autre incarcération
+Difficultés liées à une libération de prison
+Difficultés liées à d'autres situations juridiques
+Victime d'un crime et d'actes terroristes
+Exposition à une catastrophe, une guerre et autres hostilités
+Autres difficultés précisées liées à des situations psychosociales
+Difficulté liée à des situations psychosociales, sans précision
+Conseil relatif aux attitudes en matière de sexualité
+Conseil relatif au comportement et à l'orientation du sujet en matière de sexualité
+Conseil relatif au comportement et à l'orientation d'un tiers en matière de sexualité
+Conseil relatif à des préoccupations associées concernant les attitudes, le comportement et l'orientation en matière de sexualité
+Autres formes de conseils en matière de sexualité
+Conseil en matière de sexualité, sans précision
+Personne consultant pour le compte d'un tiers
+Sujet inquiet de son état de santé, aucun diagnostic n'étant posé
+Sujet consultant pour explications des résultats d'examen
+Surveillance et conseils diététiques
+Conseil et surveillance pour alcoolisme
+Conseil et surveillance pour toxicomanie et pharmacodépendance
+Conseil pour tabagisme
+Conseil à propos du virus de l'immunodéficience humaine [VIH]
+Autres conseils précisés
+Conseil, sans précision
+Usage du tabac
+Consommation d'alcool
+Utilisation de drogues
+Manque d'exercice physique
+Régime et habitudes alimentaires inadéquats
+Comportement sexuel à haut risque
+Jeu et pari
+Autres difficultés liées au mode de vie
+Difficulté liée au mode de vie, sans précision
+Surmenage
+Accentuation de certains traits de la personnalité
+Manque de repos et de loisirs
+Stress, non classé ailleurs
+Compétences sociales inadéquates, non classées ailleurs
+Conflit sur le rôle social, non classé ailleurs
+Limites imposées aux activités par une incapacité
+Autres difficultés liées à l'orientation de son mode de vie
+Difficulté liée à l'orientation d'un mode de vie non précisé
+Besoin d'assistance du fait de mobilité restreinte
+Besoin d'assistance et de soins d'hygiène
+Besoin d'assistance à domicile, aucun autre membre du foyer n'étant capable d'assurer les soins
+Besoin d'une surveillance permanente
+Autres difficultés liées à une dépendance envers la personne qui donne les soins
+Difficulté liée à une dépendance envers la personne qui donne les soins, sans précision
+Absence de services médicaux à domicile
+Sujet attendant d'être admis ailleurs, dans un établissement adéquat
+Autre période d'attente pour investigation et traitement
+Centres médicaux non disponibles et non accessibles
+Autres organisations d'aide non disponibles et non accessibles
+Prise en charge pendant les vacances
+Sujet adressé dans un autre établissement, pour réalisation d’un acte
+Autres difficultés liées aux installations médicales et autres soins de santé, non classées ailleurs
+Difficulté liée aux installations médicales et autres soins de santé, sans précision
+Renouvellement d'une ordonnance
+Surveillance médicale et soins médicaux des enfants trouvés
+Surveillance médicale et soins médicaux d'autres nourrissons et enfants en bonne santé
+Personne en bonne santé accompagnant un sujet malade
+Autres pensionnaires d'établissements de soins
+Simulateur
+Sujet ayant recours aux services de santé après une réunion de concertation pluridisciplinaire [RCP] ayant établi la complexité d'une infection ostéoarticulaire
+Enfant recevant du lait provenant d’un lactarium
+Sujet ayant recours aux services de santé dans d'autres circonstances précisées, non classées ailleurs
+Sujet ayant recours aux services de santé dans des circonstances non précisées
+Antécédents familiaux de tumeur maligne du tube digestif
+Antécédents familiaux de tumeur maligne du système hépatobiliaire et du pancréas
+Antécédents familiaux de tumeur maligne de la rat
+Antécédents familiaux de tumeur maligne des organes digestifs, sans précision
+Antécédents familiaux de tumeur maligne de la trachée, des bronches et des poumons
+Antécédents familiaux de tumeur maligne des voies aériennes supérieures et de l'oreille moyenne
+Antécédents familiaux de tumeur maligne du cœur
+Antécédents familiaux de tumeur maligne d'autres organes intrathoraciques précisés
+Antécédents familiaux de tumeur maligne des autres organes respiratoires et intrathoraciques, sans précision
+Antécédents familiaux de tumeur maligne du sein
+Antécédents familiaux de tumeur maligne des organes génitaux
+Antécédents familiaux de tumeur maligne des voies urinaires
+Antécédents familiaux de leucémie
+Antécédents familiaux d'autres tumeurs des tissus lymphoïde, hématopoïétique et apparentés
+Antécédents familiaux de tumeur maligne du système nerveux
+Antécédents familiaux de tumeur maligne de l'œi
+Antécédents familiaux de tumeur maligne de la gorge et de la bouche
+Antécédents familiaux de tumeur maligne de l'appareil musculosquelettique et du tissu conjonctif
+Antécédents familiaux de tumeur maligne de la peau et des tissus souscutanés
+Antécédents familiaux de tumeur maligne des glandes endocrines
+Antécédents familiaux de tumeur maligne d'autres localisations
+Antécédent familial de tumeur maligne, sans précision
+Antécédents familiaux de retard mental
+Antécédents familiaux d'abus d'alcool
+Antécédents familiaux de tabagisme
+Antécédents familiaux d'abus d'autres substances psychoactives
+Antécédents familiaux d'abus d'autres substances
+Antécédents familiaux d'autres troubles mentaux et du comportement
+Antécédents familiaux d'épilepsie et autres affections neurologique
+Antécédents familiaux de cécité et perte de vision
+Antécédents familiaux de surdité et perte d'audition
+Antécédents familiaux d'accident cérébrovasculaire
+Antécédents familiaux de cardiopathies ischémiques et autres maladies de l'appareil circulatoire
+Antécédents familiaux d'asthme et autres maladies chroniques des voies respiratoires inférieures
+Antécédents familiaux d'arthrite et autres maladies du système ostéoarticulaire, des muscles et du tissu conjonctif
+Antécédents familiaux de malformations congénitales et anomalies chromosomiques
+Antécédents familiaux d'autres incapacités et maladies chroniques conduisant à l'invalidité, non classées ailleurs
+Antécédents familiaux de maladie due au virus de l'immunodéficience humaine [VIH]
+Antécédents familiaux d'autres maladies infectieuses et parasitaires
+Antécédents familiaux de maladies du sang et des organes hématopoïétiques et de certains troubles du système immunitaire
+Antécédents familiaux de diabète sucré
+Antécédents familiaux d'autres maladies endocriniennes, nutritionnelles et métaboliques
+Antécédents familiaux de maladies des organes de la vue
+Antécédents familiaux de maladies des organes de l'audition
+Antécédents familiaux de maladies de l'appareil respiratoire
+Antécédents familiaux de maladies du tube digestif
+Antécédents familiaux de maladies du système hépatobiliaire et du pancréas
+Antécédents familiaux de maladies de la bouche et des dents
+Antécédents familiaux de maladies de l'appareil digestif, sans précision
+Antécédents familiaux de maladies de la peau et du tissu cellulaire souscutané
+Antécédents familiaux de maladies rénales et de l'uretère
+Antécédents familiaux d'autres maladies de l'appareil urinaire
+Antécédents familiaux d'autres maladies de l'appareil génital
+Antécédents familiaux de maladies du sein
+Antécédents familiaux de consanguinité
+Antécédents familiaux de tumeur non maligne
+Antécédents familiaux d'autres affections non classées ailleurs
+Antécédents personnels de tumeur maligne du tube digestif
+Antécédents personnels de tumeur maligne du système hépatobiliaire et du pancréas
+Antécédents personnels de tumeur maligne de la rate
+Antécédents personnels de tumeur maligne des organes digestifs, sans précision
+Antécédents personnels de tumeur maligne de la trachée, des bronches et des poumons
+Antécédents personnels de tumeur maligne des voies aériennes supérieures et de l'oreille moyenne
+Antécédents personnels de tumeur maligne du cœu
+Antécédents personnels de tumeur maligne d'autres organes intrathoraciques précisés
+Antécédents personnels de tumeur maligne des autres organes respiratoires et intrathoraciques, sans précision
+Antécédents personnels de tumeur maligne du sein
+Antécédents personnels de tumeur maligne des organes génitaux
+Antécédents personnels de tumeur maligne des voies urinaires
+Antécédents personnels de leucémie
+Antécédents personnels d'autres tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés
+Antécédents personnels de tumeur maligne du système nerveux
+Antécédents personnels de tumeur maligne de l'œil
+Antécédents personnels de tumeur maligne de la gorge et de la bouche
+Antécédents personnels de tumeur maligne de l'appareil musculosquelettique et du tissu conjonctif
+Antécédents personnels de tumeur maligne de la peau et des tissus souscutané
+Antécédents personnels de tumeur maligne des glandes endocrines
+Antécédents personnels de tumeur maligne d'autres localisations
+Antécédents personnels de tumeur maligne, sans précision
+Antécédents personnels de tumeur non maligne du système nerveux
+Antécédents personnels de tumeur non maligne du tube digestif
+Antécédents personnels de tumeur non maligne de l'appareil musculosquelettique et du tissu conjonctif
+Antécédents personnels de tumeur non maligne du sein
+Antécédents personnels de tumeur non maligne de la peau
+Antécédents personnels de tumeur non maligne de la vessie
+Antécédents personnels de tumeur non maligne d'autres localisations
+Antécédents personnels de tumeur non maligne sans précision
+Antécédents personnels de maladies infectieuses et parasitaires
+Antécédents personnels de maladies du sang et des organes hématopoïétiques et de certains troubles du système immunitaire
+Antécédents personnels de maladies endocriniennes, nutritionnelles et métaboliques
+Antécédents personnels d'abus de substances psychoactives
+Antécédents personnels d'autres troubles mentaux et du comportement
+Antécédents personnels d'accidents ischémiques cérébraux transitoires et syndromes apparentés
+Antécédents personnels d'autres maladies du système nerveux
+Antécédents personnels de maladies des organes de la vue
+Antécédents personnels de maladies des organes de l'auditio
+Antécédents personnels de maladies cérébrovasculaires
+Antécédents personnels de cardiopathies ischémiques et autres maladies de l'appareil circulatoire
+Antécédents personnels de maladies des voies respiratoires supérieures
+Antécédents personnels d'autres maladies de l'appareil respiratoire
+Antécédents personnels de maladies de l'appareil respiratoire sans précision
+Antécédents personnels de maladies de la bouche et des dents
+Antécédents personnels de maladies du tube digestif
+Antécédents personnels de maladies du système hépatobiliaire et du pancréas
+Antécédents personnels de maladies de l'appareil digestif sans précision
+Antécédents personnels de maladies de la peau et du tissu cellulaire souscutané
+Antécédents personnels de maladies du système ostéoarticulaire, des muscles et d
+Antécédents personnels de maladies de l'appareil urinaire
+Antécédents personnels de maladies de l'appareil génital
+Antécédents personnels de maladies du sein
+Antécédents personnels de complications de la grossesse, de l'accouchement et de la puerpéralité
+Antécédents personnels de certaines affections dont l'origine se situe dans la
+Antécédents personnels de malformations congénitales et anomalies chromosomiques
+Antécédents personnels de lésion traumatique intracrânienne
+Antécédents personnels de traumatisme des membres et du bassin
+Antécédents personnels de traumatismes autres et non précisés
+Antécédents personnels d'intoxication
+Antécédents personnels d'autres états précisés
+Antécédents personnels d'allergie à la pénicilline
+Antécédents personnels d'allergie à d'autres antibiotiques
+Antécédents personnels d'allergie aux sulfamides
+Antécédents personnels d'allergie à d'autres agents antiinfectieux
+Antécédents personnels d'allergie aux anesthésiques
+Antécédents personnels d'allergie aux narcotiques
+Antécédents personnels d'allergie aux analgésiques
+Antécédents personnels d'allergie aux sérums et vaccins
+Antécédents personnels d'allergie à d'autres médicaments et substances biologiques
+Antécédents personnels d'allergie à un médicament et une substance biologique, sans précision
+Absence acquise de doigt(s) [y compris le pouce], unilatérale
+Absence acquise de main et poignet
+Absence acquise d'un membre supérieur au-dessus du poignet
+Absence acquise des deux membres supérieurs [tout niveau]
+Absence acquise de pied et cheville
+Absence acquise d'un membre inférieur, au niveau du genou ou au-dessous
+Absence acquise d'un membre inférieur, au-dessus du genou
+Absence acquise des deux membres inférieurs [tout niveau, sauf orteils seuls]
+Absence acquise à la fois de membres supérieurs et inférieurs [tout niveau]
+Absence acquise de membre, sans précision
+Absence acquise d'une partie de la tête et du cou
+Absence acquise de sein(s)
+Absence acquise [de partie] de poumon
+Absence acquise de partie d'estomac
+Absence acquise d'autres parties de l'appareil digestif
+Absence acquise de rein
+Absence acquise d'autres organes des voies urinaires
+Absence acquise d'organe(s) génital(aux)
+Absence acquise d'autres organes
+Antécédents personnels d'allergie, autre qu'à des médicaments et des substances biologiques
+Antécédents personnels de non-observance d'un traitement médical et d'un régime
+Antécédents personnels de mauvaise hygiène personnelle
+Antécédents personnels de cycle veille-sommeil anormal
+Antécédents personnels de traumatisme psychologique, non classé ailleurs
+Antécédents personnels récents de lésions auto-infligées
+Antécédents personnels de lésions auto-infligées, autres et non précisés
+Antécédents personnels d'autres traumatismes physiques
+Antécédent personnel de mutilation sexuelle féminine
+Antécédents personnels d'autres facteurs de risque précisés, non classés ailleurs
+Antécédents personnels de contraception
+Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+Antécédents personnels d'utilisation (actuelle) à long terme d'autres médicaments
+Antécédents personnels d'irradiation
+Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs
+Antécédents personnels de mesures de rééducation
+Antécédents personnels de chimiothérapie pour tumeur
+Antécédents personnels d'autres traitements médicaux
+Antécédents personnels de traitement médical, sans précision
+Trachéostomie
+Gastrostomie
+Iléostomie
+Colostomie
+Autres stomies de l'appareil digestif
+Cystostomie
+Autres stomies de l'appareil urinaire
+Autres stomies
+Stomie, sans précision
+Greffe de rein
+Greffe du cœur
+Greffe de poumon
+Greffe de cœur et poumon
+Greffe de foie
+Greffe de peau
+Greffe d'os
+Greffe de cornée
+Greffe de moelle osseuse
+Autogreffe de cellules souches hématopoïétiques
+Allogreffe de cellules souches hématopoïétiques, greffon de moelle osseuse, de cellules souches périphériques ou d’unité de sang placentaire de donneur apparenté
+Allogreffe de cellules souches hématopoïétiques, greffon de moelle osseuse ou de cellules souches périphériques de donneur non apparenté
+Allogreffe de cellules souches hématopoïétiques, greffon d’unité de sang placentaire de donneur non apparenté
+Allogreffe de cellules souches hématopoïétiques, autres et sans précision
+Greffe de pancréas
+Greffe d’intestin
+Greffes d’organes et de tissus, autres
+Greffe d'organe et de tissu, sans précision
+Présence de dispositifs électroniques cardiaques
+Présence d'un pontage aortocoronaire
+Présence de prothèse d'une valvule cardiaque
+Présence d'une valvule cardiaque xénogénique
+Présence d'une autre valvule cardiaque de remplacement
+Présence d'implant et de greffe vasculaires coronaires
+Présence d’une endoprothèse vasculaire périphérique
+Présence d’autres implants et greffes cardiaques et vasculaires, NCA
+Présence d'implant et de greffe cardiaques et vasculaires, sans précision
+Présence d'implants urogénitaux
+Présence d'implants intraoculaires de cristallin
+Présence d'implants otologiques et audiologiques
+Présence d'un larynx artificiel
+Présence d'implants endocriniens
+Présence d'implants maxillaires et sur racines dentaires
+Présence d'implants d'articulations orthopédiques
+Présence d'autres implants osseux et tendineux
+Présence d'autres implants fonctionnels précisés
+Présence d'implant fonctionnel, sans précision
+Présence d'un œil artificiel
+Présence d'un membre artificiel (complet) (partiel)
+Présence d'une prothèse dentaire (complète) (partielle)
+Présence de lunettes et lentilles de contact
+Présence d'appareil auditif externe
+Présence d'un dispositif contraceptif (intra-utérin) [stérilet]
+Présence d'autres appareils précisés
+Dérivation et anastomose intestinales
+Arthrodèse
+Présence d'un appareil de drainage du liquide céphalorachidien
+Autres états postchirurgicaux précisés
+Dépendance envers un aspirateur
+Dépendance envers un respirateur
++0 Dépendance envers un respirateur : ventilation par trachéostomie
++1 Dépendance envers un respirateur : ventilation par masque nasal
++8 Dépendance envers un respirateur : ventilation par un autre moyen
+Dépendance envers une dialyse rénale
++0 Dépendance envers une hémodialyse (rénale)
++1 Dépendance envers une dialyse péritonéale
++8 Dépendance envers une dialyse rénale, autre
+Dépendance envers un fauteuil roulant
+Dépendance envers un cœur artificiel
+Dépendance envers d'autres machines et appareils auxiliaires
+Dépendance envers une machine et un appareil auxiliaire, sans précision
