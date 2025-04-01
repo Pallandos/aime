@@ -5,6 +5,7 @@ from py.gui.a_propos import Ui_A_Propos
 
 import py.regex as regex
 import py.pathologies as pathologies
+import py.matcher as matcher
 
 class AIME(QtWidgets.QMainWindow, Ui_AIME):
 
@@ -27,7 +28,7 @@ class AIME(QtWidgets.QMainWindow, Ui_AIME):
         """
 
         # page de chargement :
-        self.stackedWidget.setCurrentIndex(1)
+        self.stackedWidget.setCurrentIndex(2)
 
         text_saisi = self.plainTextEdit.toPlainText()
 
@@ -39,10 +40,38 @@ class AIME(QtWidgets.QMainWindow, Ui_AIME):
         # appel de la fonction d'extraction :
         for texte in texte_interesse:
             maladies += pathologies.extract_pathologies(texte)
+        
+        self.codes_finaux = []
+        
+        # on match avec les CIM10
+        for mal in maladies:
+            codes = matcher.match_cim10([mal])
+            self.codes_finaux.append(codes)
+        
+        # affichage des résultats dans le tableau 
+        self.model_table = QtGui.QStandardItemModel()
+        self.model_table.setColumnCount(4)
+        self.model_table.setHorizontalHeaderLabels(["Code", "Description", "Priorité", "Référence à :"])
 
-        # affichage des maladies
-        print(maladies)
+        self.add_data()
+        self.tableView.setModel(self.model_table)
+    
+    def add_data(self):
+        for item in self.codes_finaux:
+            item = item[0]
+            code = item["best_match_code"]
+            description = item["best_match_description"]
+            priorite = "haute"
+            ref = item["entity"]
+            
+            # convert to model item
+            code_item = QtGui.QStandardItem(code)
+            description_item = QtGui.QStandardItem(description)
+            priorite_item = QtGui.QStandardItem(priorite)
+            ref_item = QtGui.QStandardItem(ref)
 
+            # add to model
+            self.model_table.appendRow([code_item, description_item, priorite_item, ref_item])
 
     def a_propos_clicked(self):
         """Affiche la fenêtre à propos

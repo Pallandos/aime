@@ -26,7 +26,8 @@ with open(codes_path, 'r', encoding='utf-8') as fichier:
 # Encoder les descriptions ICD-10
 icd10_embeddings = model.encode(D)
 
-def bloc_3(bloc2_results):
+def match_cim10(bloc2_results):
+
     # Embedding des entités extraites par Bloc_2
     bloc2_embeddings = model.encode(bloc2_results)
 
@@ -67,7 +68,7 @@ def bloc_3(bloc2_results):
 
 if __name__ == "__main__":
     # Exemple d'utilisation
-    bloc2_results = ["diabète", "hypertension", "asthme"]
-    results = bloc_3(bloc2_results)
+    bloc2_results = ["familial"]
+    results = match_cim10(bloc2_results)
     for result in results:
         print(result)
