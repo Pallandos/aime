@@ -2,4 +2,6 @@
 
 /.venv
 /lib/models/
+
 /__pycache__/
+/py/__pycache__/
