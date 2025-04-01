@@ -11,19 +11,19 @@ def bloc_1(texte):
     match2 = pattern2.search(texte)
     match3 = pattern3.search(texte)
 
-    resultats = []
+    # Initialiser les variables pour éviter l'erreur d'accès
+    partie_1 = ""
+    partie_2 = ""
+    partie_3 = ""
 
     if match:
         partie_1 = match.group(1).strip()
-        resultats.append(partie_1)
     if match2:
         partie_2 = match2.group(1).strip()
-        resultats.append(partie_2)
     if match3:
         partie_3 = match3.group(1).strip()
-        resultats.append(partie_3)
-    else:
+
+    if not (match or match2 or match3):
         print("Aucun texte trouvé entre les deux phrases.")
 
-    print(partie_1)
-    return resultats
+    return [partie_1, partie_2, partie_3]

@@ -63,4 +63,4 @@ def bloc_2(texte):
         if not neg_attr.value and entity.label == "problem":
             results.append(f"text='{entity.text}'")
 
-    print(results)
+    return results
