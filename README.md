@@ -2,6 +2,43 @@
 
 *Artificial Intelligence for Medical Encoding* ou **AIME** est un projet qui vise à aider les psychiatres dans leur tâche d'encodage des actes médicaux. Notre système vise à donner une liste de codes CIM10 correspondants à un compte rendu d'hospitalisation pris en entrée.
 
+Le projet a été réalisé en collaboration avec le service psychiatrie de l'hopital Clermont-Tonerre de Brest. 
+
+> Aussi, il ne fonctionne que pour un type précis de comptes rendus médicaux (voir [compatibilité](#compatibilité)).
+
+## Licence
+
+Ce projet est sous licence MIT. 
+
+Voir [LICENCE](./LICENSE) pour plus d'informations.
+
+## Compatibilité
+
+### Requis logiciels
+
+Le projet a été codé avec `Python 3.12.3` et n'a pas été testé sur d'autres versions. 
+
+Les bilbiothèques externes requises sont les suivantes :
+
+- medkit-lib
+- PyQt5
+- transformers
+- torch
+- numpy
+- sentence-transformers
+
+Elles peuvent être installées rapidement avec la commande : 
+
+    pip install -r ./py/requirements
+
+### Comptes rendus 
+
+Le projet a été réalisé en collaboration avec l'hopital Clermont-Tonerre à Brest. Aussi, le format des comptes rendus en entrée du programme est stricte et fixé. 
+
+## Installation
+
+Pour installer le projet, télécharger l'ARCHIVE/RELEASE, puis décompressez la à l'endroit voulu. Ensuite, executez le script `install.sh` en fonction de votre OS //.
+
 ## Références
 
 Le projet **AIME** se base sur plusieurs modèles, bibliothèques et outils développés en open source. Nous avons utilisés 2 modèles : DrBERT-CASM2 et BioLORD-2023-M.
