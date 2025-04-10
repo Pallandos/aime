@@ -18,7 +18,7 @@ Voir [LICENCE](./LICENSE) pour plus d'informations.
 
 Le projet a été codé avec `Python 3.12.3` et n'a pas été testé sur d'autres versions. 
 
-Les bilbiothèques externes requises sont les suivantes :
+Les bilbiothèques externes requises sont les suivantes : // SERONT INSTALLEES
 
 - medkit-lib
 - PyQt5
@@ -37,8 +37,11 @@ Le projet a été réalisé en collaboration avec l'hopital Clermont-Tonerre à 
 
 ## Installation
 
-Pour installer le projet, télécharger l'ARCHIVE/RELEASE, puis décompressez la à l'endroit voulu. Ensuite, executez le script `install.sh` en fonction de votre OS //.
+### Ubuntu 
 
+1. Télécharger l'archive correspondante : /////
+2. Décompresser l'archive 
+3. Executer le script `install.sh` avec la commande `./install.sh`
 ## Références
 
 Le projet **AIME** se base sur plusieurs modèles, bibliothèques et outils développés en open source. Nous avons utilisés 2 modèles : DrBERT-CASM2 et BioLORD-2023-M.

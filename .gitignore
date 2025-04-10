@@ -4,4 +4,5 @@
 /lib/models/
 
 /__pycache__/
-/py/__pycache__/
+py/__pycache__/
+py/gui/__pycache__/

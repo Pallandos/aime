@@ -11,13 +11,14 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
-class Ui_A_Propos(object):
+class Ui_A_propos(object):
     def setupUi(self, A_propos):
         A_propos.setObjectName("A_propos")
-        A_propos.resize(400, 300)
+        A_propos.resize(400, 317)
         self.gridLayout = QtWidgets.QGridLayout(A_propos)
         self.gridLayout.setObjectName("gridLayout")
         self.textBrowser = QtWidgets.QTextBrowser(A_propos)
+        self.textBrowser.setOpenExternalLinks(True)
         self.textBrowser.setObjectName("textBrowser")
         self.gridLayout.addWidget(self.textBrowser, 0, 0, 1, 1)
 
@@ -26,7 +27,7 @@ class Ui_A_Propos(object):
 
     def retranslateUi(self, A_propos):
         _translate = QtCore.QCoreApplication.translate
-        A_propos.setWindowTitle(_translate("A_propos", "Dialog"))
+        A_propos.setWindowTitle(_translate("A_propos", "AIME 1.1.0"))
         self.textBrowser.setHtml(_translate("A_propos", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -34,14 +35,8 @@ class Ui_A_Propos(object):
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">AIME est un projet qui vise à apporter une aide aux médecins dans leur tâche d\'encodage des actes médicaux. Le projet ne porte pour l\'instant que sur la psychiatrie.</p>\n"
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Développé par l\'équipe AIME de l\'ENSTAb</p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Quéré E. , Dard R , Caylus J. , Calvez A. , Baker H.</p></body></html>"))
-
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    A_propos = QtWidgets.QDialog()
-    ui = Ui_A_Propos()
-    ui.setupUi(A_propos)
-    A_propos.show()
-    sys.exit(app.exec_())
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Quéré E. , Dard R , Caylus J. , Calvez A. , Baker H.</p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
+"<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">AIME version 1.1.0</p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://github.com/Pallandos/aime\"><span style=\" text-decoration: underline; color:#0000ff;\">Github AIME</span></a></p></body></html>"))

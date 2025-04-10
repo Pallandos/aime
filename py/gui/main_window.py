@@ -65,6 +65,8 @@ class Ui_AIME(object):
         self.gridLayout_3.setObjectName("gridLayout_3")
         self.tableView = QtWidgets.QTableView(self.page_2)
         self.tableView.setObjectName("tableView")
+        self.tableView.horizontalHeader().setStretchLastSection(True)
+        self.tableView.verticalHeader().setDefaultSectionSize(30)
         self.gridLayout_3.addWidget(self.tableView, 0, 0, 1, 1)
         self.horizontalLayout_2 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
@@ -101,7 +103,7 @@ class Ui_AIME(object):
 
     def retranslateUi(self, AIME):
         _translate = QtCore.QCoreApplication.translate
-        AIME.setWindowTitle(_translate("AIME", "MainWindow"))
+        AIME.setWindowTitle(_translate("AIME", "AIME"))
         self.pushButton_options.setText(_translate("AIME", "Options"))
         self.pushButton_valider.setText(_translate("AIME", "Valider"))
         self.plainTextEdit.setPlaceholderText(_translate("AIME", "Coller le compte rendu ici"))
@@ -110,13 +112,3 @@ class Ui_AIME(object):
         self.menuMenu.setTitle(_translate("AIME", "Menu"))
         self.actionA_propos.setText(_translate("AIME", "A propos"))
         self.actionAide.setText(_translate("AIME", "Aide"))
-
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    AIME = QtWidgets.QMainWindow()
-    ui = Ui_AIME()
-    ui.setupUi(AIME)
-    AIME.show()
-    sys.exit(app.exec_())
