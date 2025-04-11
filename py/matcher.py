@@ -68,7 +68,7 @@ def match_cim10(bloc2_results):
 
 if __name__ == "__main__":
     # Exemple d'utilisation
-    bloc2_results = ["familial"]
+    bloc2_results = ["douleurs thoraciques"]
     results = match_cim10(bloc2_results)
     for result in results:
         print(result)

@@ -1,4 +1,5 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
+from sympy import sec
 
 from py.gui.main_window import Ui_AIME
 from py.gui.a_propos import Ui_A_propos
@@ -25,7 +26,7 @@ class AIME(QtWidgets.QMainWindow, Ui_AIME):
             Ouvre le dépot github
         """
 
-        url = QUrl("https://github.com/Pallandos/aime/issues")
+        url = QUrl("https://github.com/Pallandos/aime/wiki")
         QtGui.QDesktopServices.openUrl(url)
 
         pass
@@ -80,18 +81,31 @@ class AIME(QtWidgets.QMainWindow, Ui_AIME):
         # affichage des résultats dans le tableau 
         self.model_table = QtGui.QStandardItemModel()
         self.model_table.setColumnCount(4)
-        self.model_table.setHorizontalHeaderLabels(["Code", "Description", "Priorité", "Référence à :"])
+        self.model_table.setHorizontalHeaderLabels(["Code", "Priorité", "Référence à :", "Description"])
 
         self.add_data()
         self.tableView.setModel(self.model_table)
     
     def add_data(self):
         for item in self.codes_finaux:
+
+            # premier résultat
             item = item[0]
             code = item["best_match_code"]
             description = item["best_match_description"]
             priorite = "haute"
             ref = item["entity"]
+            
+            # second résultat
+            code2 = item["second_best_match_code"]
+            description2 = item["second_best_match_description"]
+            priorite2 = "moyenne"
+
+            # 3e résultat
+            code3 = item["third_best_match_code"]
+            description3 = item["third_best_match_description"]
+            priorite3 = "moyenne"
+
             
             # convert to model item
             code_item = QtGui.QStandardItem(code)
@@ -99,8 +113,19 @@ class AIME(QtWidgets.QMainWindow, Ui_AIME):
             priorite_item = QtGui.QStandardItem(priorite)
             ref_item = QtGui.QStandardItem(ref)
 
+            code_item2 = QtGui.QStandardItem(code2)
+            description_item2 = QtGui.QStandardItem(description2)
+            priorite_item2 = QtGui.QStandardItem(priorite2)
+
+            code_item3 = QtGui.QStandardItem(code3)
+            description_item3 = QtGui.QStandardItem(description3)
+            priorite_item3 = QtGui.QStandardItem(priorite3)
+            
+
             # add to model
-            self.model_table.appendRow([code_item, description_item, priorite_item, ref_item])
+            self.model_table.appendRow([code_item, priorite_item, ref_item, description_item])
+            self.model_table.appendRow([code_item2, priorite_item2, ref_item, description_item2])
+            self.model_table.appendRow([code_item3,priorite_item3, ref_item, description_item3])
 
     def a_propos_clicked(self):
         """Affiche la fenêtre à propos
