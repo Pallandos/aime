@@ -1,8 +1,14 @@
 *.ui
 
+# Python
 /.venv
 /lib/models/
 
+# cache
 /__pycache__/
 py/__pycache__/
 py/gui/__pycache__/
+
+# build 
+/build_win/build/
+/build_win/dist/AIME/_internal

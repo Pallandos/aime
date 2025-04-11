@@ -1,5 +1,4 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-from sympy import sec
 
 from py.gui.main_window import Ui_AIME
 from py.gui.a_propos import Ui_A_propos

@@ -37,6 +37,10 @@ Le projet a été réalisé en collaboration avec l'hopital Clermont-Tonerre à 
 
 ## Installation
 
+### Windows 
+
+Se reporter au [Wiki](https://github.com/Pallandos/aime/wiki)
+
 ### Ubuntu 
 
 1. Télécharger l'archive correspondante : /////

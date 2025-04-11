@@ -28,7 +28,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='mon_programme',
+    name='AIME',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -46,6 +46,4 @@ coll = COLLECT(
     upx=True,
     upx_exclude=[],
     name='AIME',
-    distpath='build_win/dist',
-    workpath='build_win/build',
 )
