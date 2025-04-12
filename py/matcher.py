@@ -3,10 +3,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from pathlib import Path
+import os
+
+os.environ["HF_HUB_OFFLINE"] = "1"  # désactiver le téléchargement en ligne
 
 # Utilisation du chemin relatif
 model_path = Path(__file__).resolve().parent.parent / "lib" / "models" / "BioLORD-2023-M"
-model = SentenceTransformer(str(model_path))
+model = SentenceTransformer(str(model_path), local_files_only=True)
 D = []  # Descriptions des codes ICD-10
 C = []  # Codes ICD-10
 

@@ -12,3 +12,6 @@ py/gui/__pycache__/
 # build 
 /build_win/build/
 /build_win/dist/AIME/_internal
+
+
+.vscode/settings.json
