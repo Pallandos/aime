@@ -9,12 +9,19 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+from pathlib import Path
+
+# creation du chemin absolu
+icon_path = Path(__file__).resolve().parent.parent.parent / "lib" / "img" / "favicon.ico"
 
 
 class Ui_A_propos(object):
     def setupUi(self, A_propos):
         A_propos.setObjectName("A_propos")
         A_propos.resize(400, 317)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap(str(icon_path)), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        A_propos.setWindowIcon(icon)
         self.gridLayout = QtWidgets.QGridLayout(A_propos)
         self.gridLayout.setObjectName("gridLayout")
         self.textBrowser = QtWidgets.QTextBrowser(A_propos)
@@ -40,3 +47,13 @@ class Ui_A_propos(object):
 "<p align=\"center\" style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">AIME version 1.1.0</p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://github.com/Pallandos/aime\"><span style=\" text-decoration: underline; color:#0000ff;\">Github AIME</span></a></p></body></html>"))
+
+
+if __name__ == "__main__":
+    import sys
+    app = QtWidgets.QApplication(sys.argv)
+    A_propos = QtWidgets.QDialog()
+    ui = Ui_A_propos()
+    ui.setupUi(A_propos)
+    A_propos.show()
+    sys.exit(app.exec_())

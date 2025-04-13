@@ -9,12 +9,19 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+from pathlib import Path
+
+# creation du chemin relatif
+icon_path = Path(__file__).resolve().parent.parent.parent / "lib" / "img" / "favicon.ico"
 
 
 class Ui_AIME(object):
     def setupUi(self, AIME):
         AIME.setObjectName("AIME")
         AIME.resize(987, 690)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap(str(icon_path)), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        AIME.setWindowIcon(icon)
         self.centralwidget = QtWidgets.QWidget(AIME)
         self.centralwidget.setObjectName("centralwidget")
         self.gridLayout = QtWidgets.QGridLayout(self.centralwidget)
@@ -112,3 +119,13 @@ class Ui_AIME(object):
         self.menuMenu.setTitle(_translate("AIME", "Menu"))
         self.actionA_propos.setText(_translate("AIME", "A propos"))
         self.actionAide.setText(_translate("AIME", "Aide"))
+
+
+if __name__ == "__main__":
+    import sys
+    app = QtWidgets.QApplication(sys.argv)
+    AIME = QtWidgets.QMainWindow()
+    ui = Ui_AIME()
+    ui.setupUi(AIME)
+    AIME.show()
+    sys.exit(app.exec_())
