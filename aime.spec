@@ -11,7 +11,10 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[
+        ('.venv/Lib/site-packages/anyascii', 'anyascii'),
+        ('lib','lib')
+    ],
     hiddenimports=[],
     hookspath=[],
     runtime_hooks=[],
@@ -33,8 +36,8 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=False,
-    icon='./lib/img/favicon.ico', 
+    console=False, # True for dev
+    icon='.\\lib\\img\\favicon.ico', 
 )
 
 coll = COLLECT(
@@ -46,4 +49,5 @@ coll = COLLECT(
     upx=True,
     upx_exclude=[],
     name='AIME',
+    outdir = 'win_build' 
 )
