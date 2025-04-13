@@ -39,13 +39,10 @@ Le projet a été réalisé en collaboration avec l'hopital Clermont-Tonerre à 
 
 ### Windows 
 
+Version simple : [executable](https://mega.nz/file/fbpRQZiJ#mUhmf5yCcIgbsCtG-CRqLto6WQlA4aarQ6tRkSCNXtI)
+
 Se reporter au [Wiki](https://github.com/Pallandos/aime/wiki)
 
-### Ubuntu 
-
-1. Télécharger l'archive correspondante : /////
-2. Décompresser l'archive 
-3. Executer le script `install.sh` avec la commande `./install.sh`
 ## Références
 
 Le projet **AIME** se base sur plusieurs modèles, bibliothèques et outils développés en open source. Nous avons utilisés 2 modèles : DrBERT-CASM2 et BioLORD-2023-M.
