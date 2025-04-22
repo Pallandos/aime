@@ -18,7 +18,7 @@ Voir [LICENCE](./LICENSE) pour plus d'informations.
 
 Le projet a été codé avec `Python 3.12.3` et n'a pas été testé sur d'autres versions. 
 
-Les bilbiothèques externes requises sont les suivantes : // SERONT INSTALLEES
+Les bilbiothèques externes requises sont les suivantes :
 
 - medkit-lib
 - PyQt5
@@ -39,7 +39,7 @@ Le projet a été réalisé en collaboration avec l'hopital Clermont-Tonerre à 
 
 ### Windows 
 
-Version simple : [executable](https://mega.nz/file/fbpRQZiJ#mUhmf5yCcIgbsCtG-CRqLto6WQlA4aarQ6tRkSCNXtI)
+Version simple : [executable](https://mega.nz/file/LHYhSZBT#y8YH8YRFjiexmq0iAcDiBrx2uUxuQwM8uFshfpkDboM)
 
 Se reporter au [Wiki](https://github.com/Pallandos/aime/wiki)
 
@@ -83,3 +83,5 @@ Liens :
 - [FremyCompany](https://fremycompany.com/)
 
 ## Auteurs
+
+Le projet AIME a été réalisé par une équipe d'élèves de l'ENSTA, composée de  : Hassan BAKER, Andry CALVEZ, Roman DARD, Emilien QUÉRÉ, Pallandos.
